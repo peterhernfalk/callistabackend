@@ -1,0 +1,565 @@
+<a href="https://callistaenterprise.se/blogg/notiser/2021/03/22/pathtobecomearchitect/" target='_blank'>Vägen till att bli arkitekt</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/03/11/stephen-brown-bag/" target='_blank'>Stephen White talar om Jetpack Compose på Jfokus Brown Bag Lunch and Learn</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/02/26/vi-vaxer/" target='_blank'>Callista växer - nu är vi 40</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/23/Cadec2021-komplett/" target='_blank'>Cadec 2021 – komplett inspelning</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/19/jetpack/" target='_blank'>Från React till Jetpack Compose</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/16/kotlin/" target='_blank'>Kotlin Update: Coroutines – ett alternativt paradigm för asynkron programmering</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/11/cdk/" target='_blank'>Kodad infrastruktur på riktigt med AWS Cloud Development Kit</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/09/graal/" target='_blank'>GraalVM – genväg eller senväg till Java-baserade mikrotjänster?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/05/go/" target='_blank'>Nu kan generics bli verklighet</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/02/multi/" target='_blank'>Multitenancy: Software-as-a-Service på ett kostnadseffektivt och skalbart sätt</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/02/02/post-cadec/" target='_blank'>Årets digitala Cadec har nu gått av stapeln</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/01/18/sara-welcome/" target='_blank'>I dag börjar Sara Adenbrant hos oss</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/01/14/patrik-welcome/" target='_blank'>2021 börjar på bästa sätt – välkommen Patrik Blommaskog</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/12/18/Cadec2021-program-klart/" target='_blank'>Nu är programmet för Cadec 2021 klart</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/11/30/building-framework-agnostic-webcomponents-with-stenciljs-part2/" target='_blank'>Building Framework Agnostic WebComponents with stencilJS - Part 2</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2020/11/22/architectingonaws-kurs/" target='_blank'>Architecting on AWS</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/11/16/building-framework-agnostic-webcomponents-with-stenciljs/" target='_blank'>Building Framework Agnostic WebComponents with stencilJS - Part 1</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/11/16/marcus-wellcome/" target='_blank'>Ännu en ny medarbetare i Göteborg – välkommen Marcus Cedergren</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/11/16/cadec-teaser/" target='_blank'>Nu kan du anmäla dig till Cadec 2021</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/11/10/digitalbootcamp/" target='_blank'>Vår första helt digitala bootcamp genomförd</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/10/27/henrik-starefors-welcome/" target='_blank'>Vi växer i Göteborg och välkomnar Henrik Starefors</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/24/multi-tenancy-with-spring-boot-part6/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 6: Implementing the Shared Database with Discriminator Column pattern using Postgres Row Level Security</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/19/testing-async-processes-part2/" target='_blank'>Testing A Kafka Event Producer With Spring Boot And JUnit 5 Part 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/17/multi-tenancy-with-spring-boot-part5/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 5: Implementing the Shared Database with Discriminator Column pattern using Hibernate Filters</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/15/testing-async-processes-part1/" target='_blank'>Testing A Kafka Event Producer With Spring Boot And JUnit 5 Part 1</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/10/multi-tenancy-with-spring-boot-part4/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 4: Implement the Schema-per-tenant pattern using Hibernate</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/09/speed-up-your-testcontainers-tests/" target='_blank'>Speed-up your Testcontainers tests</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/08/getting-started-with-testcontainers/" target='_blank'>Getting started with Testcontainers</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/10/07/elektrifiering/" target='_blank'>Elektrifieringen går framåt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/10/03/multi-tenancy-with-spring-boot-part3/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 3: Implement the Database-per-tenant pattern using Hibernate</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/09/30/fredrik-welcome/" target='_blank'>Välkommen Fredrik Larsson! </a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/09/20/multi-tenancy-with-spring-boot-part2/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 2: Outlining an Implementation Strategy for Multi Tenant Data Access</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/09/19/multi-tenancy-with-spring-boot-part1/" target='_blank'>Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 1</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/09/15/kickoff-2020/" target='_blank'>En energigivande kickoff i Omberg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/09/12/blog-series-reactive-programming-part-2/" target='_blank'>Project Reactor - Reactive Programming with Spring, Part 2.</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/08/21/nytt-kontor-stockholm/" target='_blank'>Ny utsikt - samma adress</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/08/09/manage-risk-with-metrics-in-a-cd-environment/" target='_blank'>Using Metrics To Manage Risk in a CD Environment</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/07/11/a-go-ray-tracer-part-2/" target='_blank'>Optimizing a simple ray-tracer written in Go, part 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/07/04/a-go-ray-tracer/" target='_blank'>Optimizing a simple ray-tracer written in Go, part 1</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/06/29/ontologies-part2/" target='_blank'>Technical aspects of ontologies, part 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/06/10/ontologies-part1/" target='_blank'>Technical aspects of ontologies, part 1</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/06/10/nytt-kontor-gbg/" target='_blank'>Nytt kontor i Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/06/05/rsocket-part-1/" target='_blank'>An introduction to RSocket</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/05/24/blog-series-reactive-programming/" target='_blank'>Blog Series - Reactive Programming with Spring</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/05/24/blog-series-reactive-programming-part-1/" target='_blank'>An Introduction to Reactive Programming - Reactive Programming with Spring, Part 1.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/04/30/CKAD-exam-preparation-tips/" target='_blank'>Certified Kubernetes Application Developer (CKAD) exam preparation tips</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/04/27/kafka-authorisation-as-a-graph/" target='_blank'>Kafka Authorization as a Graph</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/04/20/swiftui-lists/" target='_blank'>Dynamic Lists with Asynchronous Data Loading in SwiftUI</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2020/02/28/react-meetup/" target='_blank'>Presentation på React Meetup</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/27/hakan-dahl-certifierad/" target='_blank'>Håkan Dahl "AWS Certified Solutions Architect - Associate”</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/25/samma_problem/" target='_blank'>Har vi fortfarande samma problem?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2020/02/21/go-profiling/" target='_blank'>Profiling Go applications - from Go West meetup</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/20/event-storming/" target='_blank'>Kompetensmöte Event Storming</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/19/jfokus-2020/" target='_blank'>Två innehållsrika dagar på Jfokus</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/18/erik-welcome/" target='_blank'>Vi välkomnar Erik Englund</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2020/02/14/react/" target='_blank'>Apputveckling i praktiken: React Native - eller bara Native?</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/13/meetups/" target='_blank'>2 meetups hos oss nästa vecka</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/02/12/gdprml/" target='_blank'>GDPR-aspekter på Machine Learning och hur automatiska beslut kan förklaras med hjälp av visualisering</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/02/11/mqtt/" target='_blank'>MQTT-Kafka bridge - uppkopplade bilar i ett Kafka-kluster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/02/10/oauth/" target='_blank'>Säkra appar med OAuth & OIDC</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/02/07/ms2/" target='_blank'>Praktiska strategier för att bryta isär monoliten</a>
+<a href="https://callistaenterprise.se/blogg/callista/2020/02/05/cadec-genomford/" target='_blank'>Nu är Cadec 2020 klar.</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/30/ms1/" target='_blank'>Ett makroperspektiv på verktygslådan för mikrotjänster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2020/01/24/react-sthlm/" target='_blank'>Apputveckling i praktiken: React Native - eller bara Native ?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/24/oauth-sthlm/" target='_blank'>Säkra appar med OAuth & OIDC</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/24/ms2-sthlm/" target='_blank'>Praktiska strategier för att bryta isär monoliten</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/24/ms1-sthlm/" target='_blank'>Ett makroperspektiv på verktygslådan för mikrotjänster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/24/mqtt-sthlm/" target='_blank'>MQTT-Kafka bridge - uppkopplade bilar i ett Kafka-kluster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2020/01/24/gdprml-sthlm/" target='_blank'>GDPR-aspekter på Machine Learning och hur automatiska beslut kan förklaras med hjälp av visualisering</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2020/01/08/upptacksfard-i-microservice-landskapet/" target='_blank'>På upptäcksfärd i microservice-landskapet</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/12/09/cadec-program-klart/" target='_blank'>Programmet för Cadec 2020 är klart</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2019/11/11/gung-ho-i-hindas/" target='_blank'>Gung-ho i Hindås</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/11/11/cadec2020-teaser/" target='_blank'>Nu kan du anmäla dig till Cadec 2020</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/11/10/transactions-revisited/" target='_blank'>Transactions Revisited</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/10/25/release-party/" target='_blank'>Full ruljangs på releasepartyt</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/10/23/go-meetup/" target='_blank'>Erik talade på Go meetup Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/10/16/releaseparty/" target='_blank'>Välkommen på releaseparty för höstens hetaste bok om microservices</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/10/05/go-worker-cancellation/" target='_blank'>Go - graceful shutdown of worker goroutines</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/10/03/magnus-bok/" target='_blank'>Ny bok om Microservices</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/25/niklas-meetup/" target='_blank'>Niklas inbjuden som talare till Digital Tranformation Meetup</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/09/24/avro-schemas-and-compositionality/" target='_blank'>Serialization, Schema Compositionality and Apache Avro</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2019/09/23/react-meetup/" target='_blank'>GraphQL, Apollo och Hooks</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2019/09/20/java-13/" target='_blank'>Java 13 </a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/09/19/perfect-desktop/" target='_blank'>The Perfect Desktop</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/09/18/spring-data-jpa-projections/" target='_blank'>Spring Data JPA Projections</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/17/cadec-2020-kommer/" target='_blank'>Cadec 2020 - på en biograf nära dig</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/16/ARKit/" target='_blank'>Nyheter i ARKit 3 - nu kan människan komma in i bilden</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2019/09/13/frukost-maskininlarning/" target='_blank'>Vad kan vara bättre än att diskutera maskininlärning till frukost?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2019/09/12/frukostseminarie-sthlm/" target='_blank'>Machine learning på javaplattformen</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/12/digitalisering/" target='_blank'>Vi ökar vår digitaliseringsgrad</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/11/ml-frukost/" target='_blank'>Imorgon snackas det maskininlärning på Callistakontoret</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/09/06/kickoff/" target='_blank'>Årets kickoff blev en stor succe !</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/07/29/go-blog-series-part16/" target='_blank'>Go Microservices blog series, part 16 - It's 2019, time for a code overhaul!</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2019/07/05/supervision-2040/" target='_blank'>Supervision 2040 - ännu mer världsbäst på e-hälsa</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/07/04/welcome-anna/" target='_blank'>Tillökning i Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/07/02/ml-seminarium/" target='_blank'>Frukostseminarium: Machine Learning på Javaplattformen</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/06/17/reacteeurope-reactnative-workshop/" target='_blank'>React native workshop summary from React Europe 2019</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/05/29/DevSum19-ML/" target='_blank'>David talade på DevSum19</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/05/13/v%C3%A5rens-bootcamp-genomf%C3%B6rd/" target='_blank'>Vi jobbar med kompetensutveckling</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/03/15/a-quick-home-automation/" target='_blank'>Home automation with Golang and IKEA Trådfri</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/02/12/jfokus1/" target='_blank'>En dag i (J)fokus</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/02/05/oreilly-acon-events/" target='_blank'>O'Reilly Software Architecture Conference 2019 - Event storming</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/02/05/Oreilly-2019-spaning/" target='_blank'>O'Reilly Software Architecture Conference 2019 - Spaning</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/02/05/Oreilly-2019-monday/" target='_blank'>O'Reilly Software Architecture Conference 2019 - Måndagens tutorials</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2019/02/05/Oreilly-2019-keynote/" target='_blank'>O’Reilly Software Architecture Conference 2019 - Keynote tisdag</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/react/" target='_blank'>React Update - frontend för framtiden</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/mesh/" target='_blank'>Service Mesh - så bygger du flexibel, robust och effektiv kommunikation mellan mikrotjänster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/kafka/" target='_blank'>Event-driven arkitektur med Apache Kafka – en strid ström av fördelar eller bara en hype?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/go/" target='_blank'>Go Modules och Go 2.0 - nästa steg för Golang</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/dl4j/" target='_blank'>Machine Learning på Javaplattformen - nu på en dator nära dig</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/30/ark/" target='_blank'>Macro, mini, micro, … – hur väljer du rätt tjänstebaserad arkitektur?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/react-sthlm/" target='_blank'>React Update - frontend för framtiden</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/mesh-sthlm/" target='_blank'>Service Mesh - så bygger du flexibel, robust och effektiv kommunikation mellan mikrotjänster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/kafka-sthlm/" target='_blank'>Event-driven arkitektur med Apache Kafka – en strid ström av fördelar eller bara en hype?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/go-sthlm/" target='_blank'>Go Modules och Go 2.0 - nästa steg för Golang</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/dl4j-sthlm/" target='_blank'>Machine Learning på Javaplattformen - nu på en dator nära dig</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2019/01/24/ark-sthlm/" target='_blank'>Macro, mini, micro, … – hur väljer du rätt tjänstebaserad arkitektur?</a>
+<a href="https://callistaenterprise.se/blogg/callista/2019/01/23/cadec-rekord/" target='_blank'>2019 rekord-år för Cadec</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/12/05/cadecprogram/" target='_blank'>Nu är programmet för Cadec 2019 klart</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/10/26/synchronous-request-reply-over-kafka/" target='_blank'>Synchronous Request-Reply using Apache Kafka</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/09/27/agil-upphandling/" target='_blank'>Kompetensbaserad upphandling – ett agilt sätt att hitta rätt IT-leverantör</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/09/25/avro-serialization-with-spring-mvc/" target='_blank'>Apache Avro Serialization with Spring MVC</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/09/12/go-blog-series-part15/" target='_blank'>Go Microservices blog series, part 15 - Monitoring with Prometheus.</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2018/08/20/agil-upphandling/" target='_blank'>Frukostseminarium: Kompetensbaserad upphandling – ett agilt sätt att hitta rätt IT-leverantör </a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/06/07/WeAreDevelopers-World-Congress-2018/" target='_blank'>WeAreDevelopers World Congress 2018</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/05/28/Ny-medarbetare/" target='_blank'>Välkommen till oss Pär-Anton!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/05/25/gRPC-a-new-communication-protocol/" target='_blank'>Google’s gRPC - ett nyare kommunikationsprotokoll</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/05/07/go-blog-series-part14/" target='_blank'>Go Microservices blog series, part 14 - GraphQL.</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2018/05/03/vitalis-2018/" target='_blank'>Konferensrapport: Vitalis och Medical Informatics Europe</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/04/17/react/" target='_blank'>ReactJS – en gemensam design för alla plattformar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/04/03/ml/" target='_blank'>Machine Learning för dig som vill börja koda nu</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/03/26/machine-learning-de-mystified/" target='_blank'>Machine Learning de-Mystified</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/22/blockchain/" target='_blank'>Blockkedjan – länken till smarta kontrakt och andra innovativa lösningar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/21/java/" target='_blank'>”Open, Evolving, Nimble & Scalable” – är Java redo för microservices?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/15/streams/" target='_blank'>Kafka i strömmen – så får du flyt på dina dataflöden</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/03/15/Ny-medarbetare/" target='_blank'>Välkommen till oss Martin!</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/13/gdpr/" target='_blank'>GDPR - vad är det och varför skall jag bry mig ?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/03/05/SoapUI-mockservices/" target='_blank'>SoapUI, Gradle och mockade webtjänster</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/05/react-sthlm/" target='_blank'>ReactJS – en gemensam design för alla plattformar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/04/ml-sthlm/" target='_blank'>Machine Learning för dig som vill börja koda nu</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/03/blockchain-sthlm/" target='_blank'>Blockkedjan – länken till smarta kontrakt och andra innovativa lösningar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/02/java-sthlm/" target='_blank'>”Open, Evolving, Nimble & Scalable” – är Java redo för microservices?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/01/streams-sthlm/" target='_blank'>Kafka i strömmen – så får du flyt på dina dataflöden</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2018/03/01/gdpr-sthlm/" target='_blank'>GDPR - vad är det och varför skall jag bry mig ?</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/03/01/BjornG-Welcome/" target='_blank'>Vi välkomnar Björn Gylling</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/02/26/JFokus-2018/" target='_blank'>JFokus 2018 - Framtiden för Java ser ljus ut</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/02/14/go-blog-series-part13/" target='_blank'>Go Microservices blog series, part 13 - data consistency, gorm and CockroachDB.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2018/02/07/ng-europe/" target='_blank'>ng-europe 2018 - Angular for Enterprise Applications</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/02/01/cadec2018stholm-1/" target='_blank'>Missa inte att anmäla dig till Cadec 2018 i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/callista/2018/01/26/Cadec2018GBG/" target='_blank'>Succé för Cadec 2018 i Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/28/multi-platform-docker-images/" target='_blank'>Create multi-platform Docker images</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/22/WebAssembly/" target='_blank'>WebAssembly - lågnivå JS tar webben till nya höjder</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/21/archconf-microservice-architecture-design/" target='_blank'>ArchConf 2017 - uträtning av frågetecken inom microservice-arkitektur.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/" target='_blank'>Setting up a Kubernetes cluster using Docker in Docker</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/19/archconf-spring-cloud-contract/" target='_blank'>ArchConf 2017 - en sammanfattning av Spring Cloud Contract och Spring REST docs</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/19/archconf-spring-cloud-contract-english/" target='_blank'>ArchConf 2017 - a short summary of Spring Cloud Contract</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/18/docker-in-swarm-mode-on-docker-in-docker/" target='_blank'>Setting up a Docker Swarm cluster using Docker in Docker</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/17/blog-series-docker-news/" target='_blank'>Blog Series - Trying out new features in Docker</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/16/scalax-monoid/" target='_blank'>Scala Exchange, Funktionella programmeringsmönster</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/15/scalax-day2/" target='_blank'>Scala Exchange, dag 2 - Kompositionalitetsprincipen</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/14/scalax-day1/" target='_blank'>Scala Exchange, dag 1 - Kategoriteori</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/12/14/sveriges-basta-utvecklare/" target='_blank'>Peter Larsson i sverigetoppen !</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/13/archconf-day3-reactive-arch-anti-patterns/" target='_blank'>ArchConf, dag 3 - Microservices AntiPatterns</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/12/archconf-day2/" target='_blank'>ArchConf, dag 2 - sammanfattning av min dag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/12/archconf-day2-reactive-arch-patterns/" target='_blank'>ArchConf, dag 2 - Reactive Architecture Patterns</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/12/11/archconf-day1/" target='_blank'>ArchConf, dag 1 - Machine learning workshop</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/12/10/your-filename/" target='_blank'>Nu är programmet klart för Cadec 2018 Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/12/07/erik-podd/" target='_blank'>Erik Lupander pratar Go och microservices i podden Under Utveckling</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/11/23/cadec2018gbg-1/" target='_blank'>Nu kan du anmäla dig till Cadec 2018 Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/11/16/GO-frukost/" target='_blank'>Fullt hus på vår Go frukost</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/11/09/go/" target='_blank'>Lean & Mean - så skapar du en äkta microservice-arkitektur med Go</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/10/25/go-blog-series-part12/" target='_blank'>Go Microservices blog series, part 12 - distributed tracing with Zipkin</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/09/27/nya-medarbetare/" target='_blank'>Vi växer !</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/09/22/kotlin-javazone/" target='_blank'>Jesper höll ett uppskattat föredrag om Kotlin på JavaZone </a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/09/19/Bloggserie-om-arkitektur-del-8/" target='_blank'>Arkitekturblogg del 8: Fortsättning på UML – Arkitektens skruvmejsel</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/09/14/kickoff/" target='_blank'>Kickoff 2017</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/09/13/building-microservices-part-8-logging-with-ELK/" target='_blank'>Building Microservices, part 8. Centralized logging with the ELK stack</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/09/11/go-blog-series-part11/" target='_blank'>Go Microservices blog series, part 11 - hystrix and resilience</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/08/17/Bloggserie-om-arkitektur-del-7/" target='_blank'>Arkitekturblogg del 7: UML – Arkitektens skruvmejsel</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/08/02/go-blog-series-part10/" target='_blank'>Go Microservices blog series, part 10 - centralized logging.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/07/29/building-microservices-part-7-distributed-tracing/" target='_blank'>Building Microservices, part 7. Distributed tracing with Zipkin and Spring Cloud Sleuth</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2017/06/12/WWDC17/" target='_blank'>Apple WWDC17 - AR och ML snart i var mans hand</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/06/08/go-blog-series-part9/" target='_blank'>Go Microservices blog series, part 9 - Messaging with RabbitMQ and AMQP</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/05/26/spring-io-2017/" target='_blank'>Rapport från Spring I/O 2017</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/05/15/go-blog-series-part8/" target='_blank'>Go Microservices, part 8 - centralized configuration with Viper and Spring Cloud Config</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/05/12/building-microservices-part-6-configuration-server/" target='_blank'>Building Microservices, part 6. Adding a Configuration Server</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/05/12/react/" target='_blank'>React Meetup populärare än någonsin</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2017/05/03/Vitalis-2017/" target='_blank'>Tre fullspäckade dagar på Vitalis</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/05/03/molnet-fs/" target='_blank'>Frukostseminarium: Vägen till molnet - ta de första stegen redan idag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/05/02/aws-lessons-learned/" target='_blank'>Lessons learned from a year with AWS.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/04/24/go-blog-series-part7/" target='_blank'>Go microservices, part 7 - Service Discovery & Load-balancing.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/03/22/go-blog-series-part6/" target='_blank'>Go microservices, part 6 - health checks.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/03/09/go-blog-series-part5/" target='_blank'>Go microservices, part 5 - deploying on Docker Swarm</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/03/03/go-blog-series-part4/" target='_blank'>Go microservices, part 4 - testing and mocking with GoConvey</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/03/03/springio/" target='_blank'>Callista presenterar Microservice-arkitektur på Europas ledande Spring-konferens</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/02/27/go-blog-series-part3/" target='_blank'>Go Microservices, part 3 - embedded database and JSON</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/02/21/go-blog-series-part2/" target='_blank'>Go microservices, part 2 - building our first service</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/" target='_blank'>Go Microservices blog series, part 1.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2017/02/10/Bloggserie-om-arkitektur-del-6/" target='_blank'>Arkitekturblogg del 6: Integrationsmönster och designmönster</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/02/08/cadec-sthlm/" target='_blank'>Programmet för Cadec i Stockholm klart</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2017/01/25/typescript/" target='_blank'>Typescript - den vackra sidan av javascript</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/serverless/" target='_blank'>Dumpa servern - serverless är det nya svarta</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/rxjava/" target='_blank'>Reaktiv programmering med RxJava</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/kotlin/" target='_blank'>Kotlin - ett elegant nytt programspråk för JVM:en</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2017/01/25/java9/" target='_blank'>Java 9 Footprint</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/golang/" target='_blank'>Lean & Mean - Go-based microservices on Docker Swarm</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/discovery/" target='_blank'>Erfarenheter från discovery services i ett microservice-landskap</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2017/01/25/ddd/" target='_blank'>DDD och mikroservices - stora fördelar med små tjänster</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2017/01/20/grafdatabaser-ftw/" target='_blank'>Grafdatabaser, FTW!</a>
+<a href="https://callistaenterprise.se/blogg/callista/2017/01/11/cadec-program/" target='_blank'>Cadec-programmet</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/12/20/Bloggserie-om-arkitektur-del-5/" target='_blank'>Arkitekturblogg del 5: Arkitekturmönster</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/12/15/jfokus/" target='_blank'>JFokus 2017</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/12/09/hybrid/" target='_blank'>ESB:n är död - länge leve ESB:n</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/12/06/vem-vill-ha-ett-privat-moln/" target='_blank'>Vem vill ha ett privat moln</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/12/06/alla-vagar-till-paas/" target='_blank'>Alla vägar bär till PaaS</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/12/05/kvantdatorns-genombrott/" target='_blank'>Kvantdatorns genombrott?</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/12/01/aws-keynote/" target='_blank'>AWS re:Invent 2016 Keynote 2</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/11/30/aws-keynote/" target='_blank'>AWS re:Invent 2016 Keynote 1</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/11/29/re-invent-2016/" target='_blank'>AWS re:Invent 2016</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/11/26/gatling-custom-protocol/" target='_blank'>Creating a custom Gatling prococol for AWS Lambda</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/11/25/Bloggserie-om-arkitektur-del-4/" target='_blank'>Arkitekturblogg del 4: Att arbeta med taktiker inom mjukvaruarkitektur</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/11/25/cadec-registration-open/" target='_blank'>Nu kan du anmäla dig till Cadec 2017</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/11/19/Arkitekturblogg-en-%C3%B6verblick/" target='_blank'>En överblick av bloggserien kring arkitektur</a>
+<a href="https://callistaenterprise.se/blogg/notiser/2016/11/16/nationella-ehalsodagen/" target='_blank'>Nationella E-hälsodagen 2016 och snöstorm</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/11/08/Bloggserie-om-arkitektur-del-3/" target='_blank'>Arkitekturblogg del 3: Faktorer som avgör hur mjukvaruarkitekturen bör se ut</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/10/20/Bloggserie-om-arkitektur-del-2/" target='_blank'>Arkitekturblogg del 2: De olika typerna av arkitektur</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/10/14/gasell/" target='_blank'>Det går bra nu</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/10/11/Ny-bloggserie-om-arkitektur/" target='_blank'>Ny bloggserie om arkitektur</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/10/04/ny-medarbetare-Stockholm/" target='_blank'>Ytterligare en systemutvecklare har börjat på Callista</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/09/30/building-microservices-part-5-springcloud11-docker4mac/" target='_blank'>Building Microservices, part 5. Upgrading to Spring Cloud 1.1 and Docker for Mac</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/09/02/Goto-Sthlm/" target='_blank'>GOTO Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/09/01/ny-medarbetare-sto/" target='_blank'>Vi blir fler inom Informatik</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/08/16/andreas-tell/" target='_blank'>Ny konsult i Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/06/20/region-halland/" target='_blank'>Big data och prediktiv analys i sjukvården</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/05/27/building-a-microservice-with-golang/" target='_blank'>Adding a Golang microservice to Spring Cloud</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/05/09/your-filename/" target='_blank'>Callista nominerat till Årets Tillväxtföretag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2016/05/05/testing-microservices-with-golang/" target='_blank'>Microservice landscape testing with Golang</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/03/31/cloud/" target='_blank'>The Revenge of the Quiz - in the cloud</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/03/31/ny-medarbetare-sto/" target='_blank'>Ny medarbetare i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/03/31/cadec-summering/" target='_blank'>Succe för Cadec !</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/03/17/spring-boot/" target='_blank'>Spring Boot</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/03/17/microservices/" target='_blank'>Microservices</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/03/17/kubernetes/" target='_blank'>Kubernetes</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/03/15/ny-medarbetare/" target='_blank'>Ytterligare tillökning i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/01/27/web-components/" target='_blank'>Web Components</a>
+<a href="https://callistaenterprise.se/blogg/cadec/2016/01/27/spring-xd/" target='_blank'>Spring XD</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/01/27/java9/" target='_blank'>Java 9 Modulsystem (Jigsaw)</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/cadec/2016/01/27/graphql/" target='_blank'>GraphQL</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/01/25/rekord-cadec/" target='_blank'>Rekordstort intresse för Cadec</a>
+<a href="https://callistaenterprise.se/blogg/callista/2016/01/12/nya-medarbetare/" target='_blank'>Callista växer</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/12/18/Notes-from-Gartner-AADI/" target='_blank'>Notes from Gartner's AADI conference</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/11/24/gasell/" target='_blank'>Callista - ett superföretag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/11/22/gotling/" target='_blank'>Creating a load-test tool in Golang</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/10/26/ny-medarbetare/" target='_blank'>Ny medarbetare i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/10/21/ramavtalehm/" target='_blank'>Nytt ramavtal med eHälsomyndigheten</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/10/12/apache-camel-vs-spring-integration/" target='_blank'>Apache Camel vs Spring Integration</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/10/10/bootcamp-genomford/" target='_blank'>Höstens bootcamp genomförd</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/10/09/spring-boot-app-as-a-windows-service/" target='_blank'>Spring Boot App as a Windows Service</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/10/09/garmin-connect/" target='_blank'>Creating a Golf Distance app for Garmin devices</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/10/06/reactjs-meetup/" target='_blank'>Succe för ReactJS Meetup</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/10/02/ny-medarbetare/" target='_blank'>Ny medarbetare i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/24/going-cloud-native-with-lattice/" target='_blank'>SpringOne2GX 2015 - Going Cloud Native (locally) with Lattice</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/23/springone2gx-start-your-climb-to-the-cloud/" target='_blank'>SpringOne2GX - Start your climb to the cloud</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/22/springone2gx-microservices-with-event-sourcing-and-CQRS/" target='_blank'>SpringOne2GX - Eventsourcing and CQRS in a microservice context</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/19/springone2gx-google-kubernetes/" target='_blank'>SpringOne2GX - Google has unleashed Borg, watch out for Kubernetes!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/17/springone2gx-cloud-native/" target='_blank'>SpringOne2GX 2015 - Cloud Native</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/17/springone2gx-CloudFoundry/" target='_blank'>SpringOne2GX 2015 - First impressions of Cloud Foundry</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/16/spring-framework-5/" target='_blank'>Spring Framework 5 announced</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/14/xspring-xd-day-2/" target='_blank'>Spring XD tutorial, summarized</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/14/springonegx-day-1/" target='_blank'>SpringOne2GX, day one</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/09/11/reactjs/" target='_blank'>Stort intresse för ReactJS</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/09/07/quasar-blog/" target='_blank'>Dawn of the thread</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/07/16/packetbeat/" target='_blank'>A first look at PacketBeat</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/06/08/building-microservices-part-4-dockerize-your-microservices/" target='_blank'>Building Microservices, part 4. Dockerize your Microservices</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/05/27/microservices-sto/" target='_blank'>Microservices</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/05/21/microservices-gbg/" target='_blank'>Microservices</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/05/21/microservices/" target='_blank'>Frukostseminarium genomfört</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/05/20/blog-series-building-microservices/" target='_blank'>Blog Series - Building Microservices</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/04/27/building-microservices-part-3-secure-APIs-with-OAuth/" target='_blank'>Building microservices, part 3. Secure API's with OAuth 2.0</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/04/22/oskar-vitalis/" target='_blank'>Från medelandeutväxling till semantisk interoperabilitet</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/04/15/building-microservices-with-spring-cloud-and-netflix-oss-part-2/" target='_blank'>Building microservices with Spring Cloud and Netflix OSS, part 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/04/10/building-microservices-with-spring-cloud-and-netflix-oss-part-1/" target='_blank'>Building microservices with Spring Cloud and Netflix OSS, part 1</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/03/25/an-operations-model-for-microservices/" target='_blank'>An operations model for Microservices</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/03/24/bootcamp/" target='_blank'>Bootcamp genomförd</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/02/23/ny-medarbetare/" target='_blank'>Ny medarbetare i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/02/20/speedment/" target='_blank'>Speedment - Make Your Existing SQL Database Superfast</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2015/02/20/microservices/" target='_blank'>Microservices</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/02/04/jfokus-social/" target='_blank'>Adding social login to a website using Spring Social</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/01/29/radda-barnen/" target='_blank'>Callista stöder Rädda Barnen</a>
+<a href="https://callistaenterprise.se/blogg/callista/2015/01/29/cadec-2015-succe/" target='_blank'>Cadec 2015</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/testautomation-tutorial/" target='_blank'>Testautomation tutorial</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/reactive/" target='_blank'>Reactive</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/reactive-tutorial/" target='_blank'>Reactive Tutorial</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/raml/" target='_blank'>RAML</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/java8/" target='_blank'>Java 8</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/gradle/" target='_blank'>Från Maven till Gradle</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/fhir/" target='_blank'>FHIR och interoperabilitet i sjukvården</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/ember/" target='_blank'>Ember</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/ember-tutorial/" target='_blank'>Ember Tutorial</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/elk/" target='_blank'>Loggövervakning i realtid med ELK</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2015/01/28/agil-prestandatest/" target='_blank'>Prestandatest i Agila projekt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/12/29/trying-out-functional-programming-in-Java8/" target='_blank'>Trying out functional programming in Java 8</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/12/16/nya-medarbetare/" target='_blank'>Nya konsulter i Göteborg.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/12/11/Personlig-teknikradar/" target='_blank'>Personlig teknikradar</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/12/07/Angular-20/" target='_blank'>Heads-up, AngularJS 1.x to be deprecated soon</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/12/04/apache-mesos/" target='_blank'>Apache Mesos</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/12/04/avoid-callback-hell/" target='_blank'>Avoid callback hell when using non-blocking I/O</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/12/03/mobil-utveckling/" target='_blank'>Strategier för mobilutveckling på multipla plattformar</a>
+<a href="https://callistaenterprise.se/blogg/cadec/2014/12/02/sakerhetsdagen/" target='_blank'>Säkerhetsdagen 2014</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/11/26/gasell/" target='_blank'>Callista är ett Gasell-företag !</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/10/23/scalability/" target='_blank'>Don't block your mobiles and Internet of things</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/09/02/adding-social-login-to-a-website-using-spring-social/" target='_blank'>Adding social login to a website using Spring Social</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/08/13/utmaningar-att-datatekniskt-representera-kvalitetsindikatorer/" target='_blank'>Utmaningar att datatekniskt representera kvalitetsindikatorer</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/08/07/nya-medarbetare-stockholm/" target='_blank'>Nya medarbetare i Stockholm</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/08/05/modelling-a-rest-api-with-uml-and-keeping-it-agile/" target='_blank'>Modelling a REST API with UML and keeping it agile</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/06/26/how-to-share-http-ports-between-mule-applications/" target='_blank'>How to share HTTP ports between Mule applications</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/06/23/testing-non-blocking-rest-services-with-spring-mvc-and-spring-boot/" target='_blank'>Testing non-blocking REST services with Spring MVC and Spring Boot</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/06/12/par-vann-appletv/" target='_blank'>Per vann Apple TV</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/06/12/health_innovation_platform/" target='_blank'>Health Innovation Platform</a>
+<a href="https://callistaenterprise.se/blogg/callista/2014/05/06/nya-lokaler/" target='_blank'>Nya lokaler</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/04/22/c10k-developing-non-blocking-rest-services-with-spring-mvc/" target='_blank'>C10k: Developing non-blocking REST services with Spring MVC</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/" target='_blank'>A first look at Gatling, a DSL based load test tool</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/04/15/a-first-look-at-spring-boot/" target='_blank'>A first look at Spring Boot, is it time to leave XML based configuration behind?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2014/04/14/a-first-look-at-gradle/" target='_blank'>A first look at Gradle, is it time to leave Maven and Ant behind?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/tdd-med-dynamiska-sprak/" target='_blank'>TDD++ med dynamiska språk</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/spring-data-jpa/" target='_blank'>Spring Data JPA</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/single-page-app-med-backbone/" target='_blank'>Single page app med Backbone.js</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/rethink-your-frontend-architecture/" target='_blank'>Rethink your frontend architecture</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/raml/" target='_blank'>RAML</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/play2/" target='_blank'>Play 2</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/nexus-of-forces/" target='_blank'>Nexus of forces - Heads up!</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/battre-och-roliga-applikationer-med-d3/" target='_blank'>Bättre och roligare applikationer med D3.js</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/att-gora-legacykod-testbar/" target='_blank'>Att göra legacy kod testbar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2014/01/29/apier-for-moderna-klienter/" target='_blank'>API:er för moderna klienter med Grails 2.3</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2013/08/12/c10k-lightweight-java-servers-for-large-scaled-realtime-websocket-communication/" target='_blank'>C10k: Lightweight Java servers for large scaled realtime WebSocket communication</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2013/06/12/crash-for-mule-a-sshtelnet-based-management-tool-for-mule-esb/" target='_blank'>CRaSH for Mule, a ssh/telnet based management tool for Mule ESB</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2013/03/15/requirejs-modules-plugins-and-optimization/" target='_blank'>RequireJS - modules, plugins and optimization</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/sveriges-patientjournaler-i-den-programmerbara-webben/" target='_blank'>Sveriges patientjournaler i den programmerbara webben - en utopi?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/skalbara-system-i-akka-och-skala/" target='_blank'>Skalbara system i Akka och Scala</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/single-page-app-med-backbone/" target='_blank'>Single page app med Backbone.js</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/kodkata/" target='_blank'>Kodkata: Länkad lista igen?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/hadoop-en-oversikt/" target='_blank'>Hadoop - en översikt</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/groovy-grails/" target='_blank'>Groovy & Grails 2.x update</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/end-to-end-javascript-webappar-med-node-och-mongodb/" target='_blank'>End-to-end Javascript webappar med Node.js och MongoDB</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/coffeescript/" target='_blank'>Coffee</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/bygga-appar-mot-vardens-apier/" target='_blank'>Bygga appar mot vårdens API:er</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2013/01/29/build-pipelines/" target='_blank'>Build pipelines</a>
+<a href="https://callistaenterprise.se/blogg/callista/2013/01/22/cadec-tutorials/" target='_blank'>Cadec tutorials</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2013/01/17/set-up-a-tomcat-server-on-aws-using-cloudformation-2/" target='_blank'>Set up a Tomcat server on AWS using CloudFormation</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2013/01/09/mule-esb-nio-http-transport-and-10000-websocket-clients/" target='_blank'>Mule ESB and the C10k problem, streaming updates to 10 000 WebSocket clients using the upcoming nio-http-transport</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2012/12/05/apache-cassandra-and-time-series-with-timeuuidtype-in-java/" target='_blank'>Apache Cassandra and time series with TimeUUIDType in Java</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2012/10/24/using-soi-toolkit-to-create-secure-https-services-soap-or-rest-style-in-mule-esb/" target='_blank'>Using soi-toolkit to create secure HTTPS services (SOAP or REST style) in Mule ESB</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2012/03/12/remote-deploy-to-tomcat-7-using-cargo/" target='_blank'>Remote deploy to Tomcat 7 using Cargo</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/web-accepance-testing-revisited/" target='_blank'>Web Acceptance Testing Revisited</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/sql-nosql-oroacle/" target='_blank'>(SQL ⊆ NoSQL) != Oracle</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/skapa-mobila-tjanster-med-mule/" target='_blank'>Mule++ - Skapa mobila tjänster med Mule</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/ready-to-go-mobile/" target='_blank'>Ready to Go Mobile!</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/mobile-enabla-ditt-systemlandskap/" target='_blank'>Mobil-enabla ditt systemlandskap med hjälp av Mule ESB</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/introduktion-till-distribuerad-versionshantering-med-git/" target='_blank'>Introduktion till distribuerad versionshantering med Git</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/enterprise-mobile-platforms/" target='_blank'>Enterprise Mobile Platforms - Andriod i professionella tillämpningar</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/cadec-play-framework/" target='_blank'>Play! Framework</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2012/01/29/automated-ui-tests-for-mobile-apps/" target='_blank'>Automated UI tests for Mobile Apps</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2012/01/12/firefox-for-enterprises-from-proposal-to-action/" target='_blank'>Firefox for Enterprises, from proposal to action</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/12/08/experiences-from-rich-web-experience-2011/" target='_blank'>Experiences from Rich Web Experience 2011</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/11/24/quick-start-jettys-maven-plugin-with-ssl/" target='_blank'>Quick Start - Jetty's maven plugin with SSL</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/11/24/creating-self-signed-certificates-for-use-on-android/" target='_blank'>Creating self-signed certificates for use on Android</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/11/24/android-tlsssl-mutual-authentication/" target='_blank'>Android - TLS/SSL Mutual Authentication</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/11/16/configure-your-spring-web-application/" target='_blank'>Configure your spring web application</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/11/13/swedish-kan-oauth2-vara-dorren-till-att-oppna-journalerna-for-marknaden/" target='_blank'>Kan OAuth2 vara dörren till att öppna journalerna för marknaden?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/10/26/getting-started-with-git/" target='_blank'>Getting started with git</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/09/29/from-the-muleforge-working-on-the-sftp-transport-and-the-smooks-module/" target='_blank'>From the MuleForge: Working on the SFTP Transport and the Smooks Module</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/09/27/changes-to-attr-in-jquery-1-6-x/" target='_blank'>Changes to .attr() in JQuery 1.6.x</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/08/12/is-rest-the-future-for-soa/" target='_blank'>Is REST the future for SOA?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/06/30/soi-toolkit-meets-mule-studio-a-perfect-match/" target='_blank'>Soi-toolkit meets Mule Studio, a perfect match!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/04/04/curl-mutual-authentication-and-web-services/" target='_blank'>Curl, Mutual Authentication and Web Services</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/04/03/synchronizing-mail-calendar-and-contacts-between-google-accounts-and-ios-devices/" target='_blank'>Synchronizing Mail, Calendar and Contacts between Google accounts and iOS devices</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/02/13/lessons-learned-using-dbunit-in-a-large-project/" target='_blank'>Lessons learned using DBUnit in a large project</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/01/26/five-things-to-avoid-in-the-last-sprint/" target='_blank'>Five things to avoid in the last sprint</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/01/25/working-with-collections-in-scala-rocks/" target='_blank'>Working with collections in scala rocks</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/01/23/getting-started-with-soi-toolkit/" target='_blank'>Getting started with Soi-toolkit</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/uttrycksfulla-stabila-domanmodeller/" target='_blank'>Uttrycksfulla, stabila domänmodeller – En utopi?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/soi-toolkit/" target='_blank'>SOI Toolkit – Turboladdad Mule-utveckling</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/scala/" target='_blank'>Scala</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/real-time-web/" target='_blank'>Real time web - Eller varför alla behöver en PubSubHub-bubhub</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/qcon/" target='_blank'>Senaste nytt från QCon 2010</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/mule-soi-toolkit/" target='_blank'>Mule/SOI Toolkit</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/kod-som-ar-vard-nagot/" target='_blank'>Kod som är värd något</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/grails-groovy/" target='_blank'>Grails & Groovy</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2011/01/19/acceptance-test-driven-development/" target='_blank'>ATDD - Acceptance Test Driven Development</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2011/01/13/setting-up-your-eclipse-environment-for-groovy-and-grails/" target='_blank'>Setting up your Eclipse environment for Groovy and Grails</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/12/12/keeping-database-schemas-up-to-date/" target='_blank'>Keeping Database Schemas up to date</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/12/08/getting-started-with-sonar-to-manage-your-technical-debt/" target='_blank'>Getting started with Sonar to manage your technical debt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/11/28/one-liners-in-java-maybe-better-support-in-java-7/" target='_blank'>One-liners in Java – maybe better support in Java 7</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/11/12/stubs-n-mocks/" target='_blank'>Difference between Stubs 'n' Mocks</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/10/19/advanced-debugging/" target='_blank'>Advanced Debugging</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/10/08/my-write-up-on-software-craftsmanship-2010/" target='_blank'>My write-up on Software Craftsmanship 2010</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/09/21/never-let-an-enterprise-architect-into-a-coding-dojo/" target='_blank'>Never let an enterprise architect into a coding dojo</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/09/20/mock-an-autowired-bean-2/" target='_blank'>Mock an autowired bean</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/09/15/subclipse-vs-subversive/" target='_blank'>Subclipse vs Subversive</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/06/13/get-rid-of-your-tedious-and-error-prone-release-process-2/" target='_blank'>Get rid of your tedious and error-prone release process</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/01/27/cdi-the-first-standard-for-di-containers/" target='_blank'>CDI - The first standard for DI containers</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2010/01/20/vad-gor-en-asna-i-varden/" target='_blank'>Vad gör en åsna i vården?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2010/01/20/open-source-esb/" target='_blank'>Att ersätta en kommersiell integrationsplattform med en Open source-ESB</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2010/01/20/java-ee-6/" target='_blank'>Java EE 6 springer förbi Spring?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2010/01/20/html5/" target='_blank'>HTML 5</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2010/01/20/hibernate-search/" target='_blank'>Hibernate Search – Hur du Googlar din domänmodell</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2010/01/07/another-perspective-on-jax-ws-portability/" target='_blank'>Another perspective on JAX-WS portability</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/10/21/increased-productivity-with-javarebel/" target='_blank'>Increased productivity with JavaRebel</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/09/10/metamorphosis-the-screwdriver-turns-into-a-nuclear-plant/" target='_blank'>Metamorphosis - The screwdriver turns into a nuclear plant</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/09/04/grails-unit-testing-in-eclipse/" target='_blank'>Grails Unit Testing in Eclipse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/07/28/using-categories-to-keep-java-domain-models-uncluttered/" target='_blank'>Using Categories to keep Java domain models uncluttered</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/07/28/a-stab-at-google-app-engine/" target='_blank'>A stab at Google App Engine</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/05/17/the-ultimate-source-for-schema-versioning-strategies/" target='_blank'>The ultimate source for schema versioning strategies</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/03/06/integrating-flex-blazeds-and-spring/" target='_blank'>Integrating Flex, BlazeDS and Spring</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/03/02/creating-custom-components-in-flex/" target='_blank'>Creating custom components in Flex</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2009/01/21/terracotta/" target='_blank'>Terracotta - Enklare väg till tillgänglighet och persistens</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2009/01/21/stripes-framework/" target='_blank'>Stripes Framework – Dags att dra upp huvudet ur sanden</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2009/01/21/soa-med-open-source/" target='_blank'>SOA med Open Source - Hur enkelt får det vara?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2009/01/21/scrum/" target='_blank'>Scrum – Lathetens eller effektivitetens utvecklingsmetod?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2009/01/21/enterprise-mash-ups/" target='_blank'>Enterprise mash-ups - Låt gästerna blanda sina egna drinkar</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2009/01/16/use-eclipse-plugins-to-find-bugs-and-check-test-coverage/" target='_blank'>Use Eclipse plugins to find bugs and check test coverage</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/10/16/building-dsls-in-scala/" target='_blank'>Building DSLs in Scala</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/09/25/being-agile/" target='_blank'>Being Agile</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/09/24/debugging-groovy-in-eclipse/" target='_blank'>Debugging Groovy in Eclipse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/08/16/using-jfreechart-implementing-a-graphical-calendar/" target='_blank'>Using JFreeChart implementing a graphical calendar</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/08/11/maven-eclipse-integration-revisited/" target='_blank'>Maven Eclipse integration revisited</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/08/08/recept-for-maven-i-eclipse/" target='_blank'>Recept för Maven i Eclipse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/08/08/groovy-as-a-job-control-language/" target='_blank'>Groovy as a job control language</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/06/03/restful-with-jax-rs/" target='_blank'>RESTful with JAX-RS</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/30/wmb-util-pain-relief-for-websphere-message-broker/" target='_blank'>wmb-util - pain relief for WebSphere Message Broker</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/28/groovy-and-grails-intro/" target='_blank'>Groovy and Grails intro</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/26/bekanta-dig-med-groovy-och-grails/" target='_blank'>Bekanta dig med Groovy och Grails</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/25/installation-av-grails/" target='_blank'>Installation av Grails</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/20/testing-with-hermes-jms/" target='_blank'>Testing with Hermes JMS</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/05/18/lightweight-messaging-development-using-active-mq/" target='_blank'>Lightweight messaging development using Active MQ</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/04/21/deploy-av-portlets-i-was-6-1/" target='_blank'>Deploy av portlets i WAS 6.1</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/04/20/yet-another-mock-framework/" target='_blank'>Yet another Mock framework</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/04/17/the-programming-languages-of-tomorrow/" target='_blank'>The programming languages of tomorrow</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/04/17/integrating-e-id-with-websphere-portal/" target='_blank'>Integrating e-id with WebSphere Portal</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/04/14/run-your-own-application-in-googles-cloud/" target='_blank'>Run your own application in Google's cloud</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/27/ide-vendors-catch-up-on-use-case-level-re-use/" target='_blank'>IDE Vendors catch up on use-case-level re-use</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/15/after-corba-comes-soap-comes-rest-comes/" target='_blank'>After Corba comes SOAP comes REST comes...</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/14/adobe-flex-finally-goes-open-source/" target='_blank'>Adobe Flex finally goes Open Source</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/12/spring-batch-close-to-1-0-release/" target='_blank'>Spring Batch close to 1.0 Release</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/12/apex-becomes-the-abap-of-saas/" target='_blank'>Apex becomes the ABAP of SaaS?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/03/10/ant-maven-and/" target='_blank'>Ant, Maven and...</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/02/25/spring-becomes-an-esb/" target='_blank'>Spring becomes an ESB?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/02/14/valentines-day-have-you-sent-your-partner-a-message-today/" target='_blank'>Valentine's day - have you sent your partner a message today?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/02/11/open-minded-course-wanted/" target='_blank'>Open-minded course wanted!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/02/03/xmpp-on-the-roll/" target='_blank'>XMPP on the roll</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/02/02/facelets-is-coming-in-from-the-cold/" target='_blank'>Facelets is coming in from the cold!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/01/29/unit-test-utilities-for-developers-in-a-hurry/" target='_blank'>Unit Test Utilities for developers in a hurry</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/01/28/the-inter-portlet-communication-ipc-problem/" target='_blank'>The Inter-Portlet Communication (IPC) Problem</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2008/01/23/the-web-framework-dream-team/" target='_blank'>The web framework dream team</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2008/01/23/jpa/" target='_blank'>JPA - The Good, the Bad and the Ugly</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2008/01/23/couch-db/" target='_blank'>CouchDB</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2008/01/23/composition-of-soa-based-applications/" target='_blank'>Composition of SOA based applications</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2008/01/23/bitter-tdd/" target='_blank'>Bitter TDD</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/01/22/governing-the-bulldozer-portal-platform-project/" target='_blank'>Governing the bulldozer portal platform project</a>
+<a href="https://callistaenterprise.se/blogg/callista/2008/01/22/callista-blir-supporters-i-osoa/" target='_blank'>Callista blir Supporters i OSOA</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/01/17/try-a-new-message-protocol-today/" target='_blank'>Try a new message protocol today!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2008/01/04/esb-product-versus-architecture/" target='_blank'>ESB - product versus architecture</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/12/16/new-milestones-reached-for-service-component-architecture/" target='_blank'>New milestones reached for Service Component Architecture</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/12/04/scale-with-scala/" target='_blank'>Scale with Scala</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/11/18/enterprise-service-bus-vad-da-service/" target='_blank'>Enterprise Service Bus - Vad då 'Service'?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/11/16/visst-kan-man-lara-gamla-hundar-att-sitta-eller-en-reflektion-om-vidareutbildning-i-java/" target='_blank'>Visst kan man lära gamla hundar att sitta eller en reflektion om vidareutbildning i Java.</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/11/08/spec-slapper-testsvit-for-jms/" target='_blank'>SPEC släpper testsvit för JMS</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/11/04/asynkrona-tjanster-i-fokus-for-ws-i/" target='_blank'>Asynkrona tjänster i fokus för WS-I</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/10/20/ytterligare-momentum-for-java-persistence-api/" target='_blank'>Ytterligare momentum för Java Persistence Api</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/09/26/informell-referensimplementation-av-sca-nar-version-1-0/" target='_blank'>Informell referensimplementation av SCA når version 1.0</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/09/26/dwr-2-0-slappt/" target='_blank'>DWR 2.0 släppt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/09/17/public-review-av-web-beans-jsr-299/" target='_blank'>Public Review av Web Beans (JSR 299)?!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/09/15/overraskande-positiva-erfarenheter-fran-eclipse-rcp/" target='_blank'>Överraskande positiva erfarenheter från Eclipse RCP</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/08/30/webramverkens-dream-team/" target='_blank'>Webramverkens dream-team</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/08/30/ar-drools-4-0-enterprise-ready/" target='_blank'>Är Drools 4.0 'Enterprise Ready'?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/08/28/bara-syntax-inte-sa-bara/" target='_blank'>'Bara syntax' inte så bara!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/07/05/maven-fran-eclipse-blir-framtidens-byggsystem/" target='_blank'>Maven++ från Eclipse blir framtidens byggsystem?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/06/25/fitnesse-inte-bara-ett-testverktyg/" target='_blank'>FitNesse - inte bara ett testverktyg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/06/13/osgi-en-borjan/" target='_blank'>OSGi - en början?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/06/01/aggregering-av-rapporter-i-maven-2/" target='_blank'>Aggregering av rapporter i Maven 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/05/22/visst-behovs-jbi/" target='_blank'>Visst behövs JBI!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/05/15/subversive-accepterat-i-eclipse/" target='_blank'>Subversive accepterat i Eclipse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/05/09/polyglot-programming/" target='_blank'>Polyglot Programming</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/04/27/gavin-kings-onskelista-for-java-ee-6/" target='_blank'>Gavin Kings önskelista för Java EE 6</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/04/23/richard-stallman-forelaser-i-goteborg/" target='_blank'>Richard Stallman föreläser i Göteborg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/04/04/versionshantering-av-xml-scheman/" target='_blank'>Versionshantering av XML Scheman</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/04/04/tsss-2007-nasta-generations-plattform-enligt-oracle/" target='_blank'>TSSS 2007 Nästa Generations Plattform (enligt Oracle)</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/04/02/avsloja-cirkular-beroenden-mellan-java-paket/" target='_blank'>Avslöja cirkulär beroenden mellan Java-paket</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/31/jsf-2-0-draft-till-jsr-ute/" target='_blank'>JSF 2.0 - draft till JSR ute</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/30/tsss-2007-state-of-ajax/" target='_blank'>TSSS 2007 State Of Ajax</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/23/tsss-2007-ramverket-rife/" target='_blank'>TSSS 2007 Ramverket RIFE</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/23/tsss-2007-jsf-saknar-momentum/" target='_blank'>TSSS 2007 JSF saknar momentum</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/22/tsss-2007-webservice-interop-med-net-3-0/" target='_blank'>TSSS 2007 WebService Interop med .Net 3.0</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/22/tsss-2007-ajax-overallt/" target='_blank'>TSSS 2007 Ajax överallt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/22/its-all-about-continuous/" target='_blank'>It's all about 'continuous'</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/21/tsss-2007-mule-2-and-spring-2/" target='_blank'>TSSS 2007 Mule 2 and Spring 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/21/tsss-2007-apache-tuscany-not-the-same-old-architecture/" target='_blank'>TSSS 2007 Apache Tuscany - Not The Same Old Architecture</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/21/the-server-side-java-symposium-2007/" target='_blank'>The Server Side Java Symposium 2007</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/03/15/kom-igang-med-service-orienterad-integration/" target='_blank'>Kom igång med Service-Orienterad Integration</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/02/26/service-component-architecture-mot-version-1-0/" target='_blank'>Service Component Architecture mot version 1.0</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/02/26/data-grid-med-pojos/" target='_blank'>Data Grid med POJO's</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/webdialoger-som-drop-in-komponenter/" target='_blank'>Webdialoger som drop-in komponenter</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/testdriven-esb-utveckling/" target='_blank'>Testdriven ESB-utveckling</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/open-source-esb/" target='_blank'>Open Source ESB - Något att ta på allvar?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/naked-objects/" target='_blank'>Lättviktig prototyping med Naked Objects</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/jpa/" target='_blank'>Java Persistence API v1.0 (JPA)</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/javaee-seems-easy/" target='_blank'>JavaEE Seams Easy!</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/dsl-for-acceptanstester/" target='_blank'>DomänSpecifika Språk (DSL) för acceptanstester</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2007/01/24/asynkrona-tjanster/" target='_blank'>Asynkrona tjänster - Nyckeln till SOA-baserad integration</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/13/kodtackning-i-eclipse-med-eclemma-pluginen-open-source/" target='_blank'>Kodtäckning i Eclipse med EclEmma-pluginen (open source)</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/10/dependency-management-for-ant-ivy-i-apache-incubator/" target='_blank'>Dependency management för Ant - Ivy i Apache incubator</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/10/ant-1-7-och-junit/" target='_blank'>Ant 1.7 och JUnit</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/05/websphere-portal-server-modulariseras/" target='_blank'>WebSphere portal-server modulariseras</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/05/suns-jaxb-2-1-ger-forbattrat-stod-for-soa/" target='_blank'>Suns JAXB 2.1 ger förbättrat stöd för SOA</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/05/hur-genomfor-man-kodgranskning-bast/" target='_blank'>Hur genomför man kodgranskning bäst?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/03/ibm-dundrar-in-pa-java-ee-5-0-scenen-bea-och-sap-rycker-i-taten/" target='_blank'>IBM dundrar in på Java EE 5.0 scenen! BEA och SAP rycker i täten!!!</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2007/01/03/har-jbi-tillrackligt-med-luft-under-vingarna/" target='_blank'>Har JBI tillräckligt med luft under vingarna?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/12/18/automatiserade-byggen-med-pulse/" target='_blank'>Automatiserade byggen med Pulse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/12/14/transparens-mellan-fit-fixturer-och-spring-bonor-med-hjalp-av-di/" target='_blank'>Transparens mellan FIT-fixturer och Spring-bönor med hjälp av DI</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/11/27/ibm-rational-satsar-pa-byggautomation/" target='_blank'>IBM Rational satsar på byggautomation</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/11/03/lattviktigt-modelleringsverktyg/" target='_blank'>Lättviktigt modelleringsverktyg</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/25/moreunit-ger-produktivitetsboost/" target='_blank'>MoreUnit ger produktivitetsboost</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/web-dialoger-som-komponenter/" target='_blank'>Web-dialoger som komponenter</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/vilka-beroenden-har-du/" target='_blank'>Vilka beroenden har du?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/service-component-architecture-flyttar-fram-positionerna/" target='_blank'>Service Component Architecture flyttar fram positionerna</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/selenium-fitnesse/" target='_blank'>Selenium & FitNesse</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/rod-jonson-om-springs-roll-i-service-component-architecture/" target='_blank'>Rod Jonson om Springs roll i Service Component Architecture</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/jaoo-rapport-sondag/" target='_blank'>JAOO Rapport - Söndag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/jaoo-rapport-mandag/" target='_blank'>JAOO Rapport - Måndag</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/handlar-egentligen-soa-om-applikationsarkitektur/" target='_blank'>Handlar egentligen SOA om applikationsarkitektur?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/gammal-ar-aldst/" target='_blank'>Gammal är äldst</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/closures-snart-i-en-jdk-nara-dig/" target='_blank'>Closures - snart i en JDK nära dig?</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/10/06/10-av-utvecklingsbudgeten-kan-kapas-med-spring-webflow/" target='_blank'>10% av utvecklingsbudgeten kan kapas med Spring Webflow</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/09/16/callisto-10-eclipse-projekt-i-ett-paket/" target='_blank'>Callisto - 10 Eclipse-projekt i ett paket</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/09/07/testa-dina-web-services-med-soapui/" target='_blank'>Testa dina web services med soapui</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/06/28/introduktion-till-sca/" target='_blank'>Introduktion till SCA</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/06/25/intryck-fran-theserverside-java-symposium-dag-2/" target='_blank'>Intryck från TheServerSide Java Symposium - dag 2</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/06/22/intryck-fran-theserverside-java-symposium-dag-1/" target='_blank'>Intryck från TheServerSide Java Symposium - dag 1</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/05/31/harmoni-mellan-jaxb-och-jaxrpc-i-javaee-5/" target='_blank'>Harmoni mellan JAXB och JAXRPC i JavaEE 5</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/05/08/spring-webflow-rc1-slappt/" target='_blank'>Spring WebFlow RC1 släppt</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/03/19/out-of-browser-testning-av-web-applikationer/" target='_blank'>Out-of-browser testning av web-applikationer</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/02/28/service-component-architecture-spec/" target='_blank'>Service Component Architecture Spec</a>
+<a href="https://callistaenterprise.se/blogg/teknik/2006/02/20/junit-4-har-slappts/" target='_blank'>JUnit 4 har släppts</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/service-component-architecture/" target='_blank'>Service Component Architecture (SCA) - en referensarkitektur för SOA</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/lets-get-groovy/" target='_blank'>Let's get groovy!</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/intryck-fran-javapolis/" target='_blank'>Intryck från Javapolis</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/drools/" target='_blank'>Drools</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/dependency-injection-in-action/" target='_blank'>Dependency Injection In Action</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/antligen-lite-flyt-pa-webben/" target='_blank'>Äntligen lite flyt på webben?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2006/01/25/ajax/" target='_blank'>AJAX</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2005/01/26/var-star-web-services-idag/" target='_blank'>Var står Web Services idag?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2005/01/26/trender/" target='_blank'>Trender inom Java-området, som Callista ser det</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2005/01/26/spring-time-for-j2ee/" target='_blank'>Spring time för J2EE</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2005/01/26/ejb3/" target='_blank'>EJB 3.0 – för en bättre värld</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2004/01/28/reference-architecture/" target='_blank'>The Reference Architecture, a foundation for successful projects</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2004/01/28/jsf/" target='_blank'>JavaServer Faces – a comparison with other techniques</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2004/01/28/jdo/" target='_blank'>Is JDO (Java Data Objects) better than Entity Beans?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2004/01/28/automated-acceptance-testing/" target='_blank'>Automated acceptance testing – a Holy Grail?</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2004/01/28/attribute-based-j2ee-development/" target='_blank'>The Deployment Descriptors are gone - Attribute-based J2EE development</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/web-services/" target='_blank'>Systemintegration med Web Services och XML</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/nyheterna-i-j2ee-14/" target='_blank'>Nyheter i J2EE v1.4</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/net-ur-j2ee-perspektiv/" target='_blank'>.Net ur ett J2EE perspektiv</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/j2ee-design-i-uml/" target='_blank'>J2EE Design i UML med RUP och s.k. Agile Software Development</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/enhetstestning-och-testdriven-design/" target='_blank'>Enhetstestning och testdriven design</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2003/01/29/aspectj/" target='_blank'>Aspekt-orienterad programmering med AspectJ</a>
