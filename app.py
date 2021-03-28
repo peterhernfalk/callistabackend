@@ -97,13 +97,14 @@ class ChatBot:
         self.recruit_keywords = ['jobb', 'rekrytering']
 
     def loadkeywords(self):
-        self.keywords = open(self.keywordfile, 'r').read().lower()
         print("loadkeywords:", len(self.keywords))
+        self.keywords = open(self.keywordfile, 'r').read().lower()
 
     def loadblogdata(self):
         self.blogdata = open(blogdatafile, 'r').read().lower()
         self.blogdata_links = open(blogdatafile, 'r').readlines()
         self.blogdata_nolinks = open(blogdatafile_titles, 'r').read().lower()
+        print("loadblogdata:", len(self.blogdata))
 
     def find_blogposts(self, keyword):
         line_number = 0
@@ -282,11 +283,8 @@ def reponse2request():
     # Session Settings
     blogdatafile = "blogdata_links.txt"
     blogdatafile_titles = "blogdata_titles.txt"
-    # ##blogdatafile_titles = "blogdata/blogdata_shorttitles.txt"
     debugExecution = True
-
     # Execute_after_startup()
-    print("Execute_after_startup()")
     chatbot.loadkeywords()
     chatbot.loadblogdata()
 
