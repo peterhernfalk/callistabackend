@@ -1,2 +1,2 @@
-web: gunicorn callistabackend.wsgi
-# web: gunicorn app:chatbot
+#web: gunicorn callistabackend.wsgi
+web: gunicorn app:app
