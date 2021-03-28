@@ -17,6 +17,8 @@ import re
 #curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "microservice", "botId": "1", "language": "sv"}' "http://localhost:4001/request"
 #curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "om callista", "botId": "1", "language": "sv"}' "http://localhost:400/request"
 
+##curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "microservice", "botId": "1", "language": "sv"}' "https://callistabackend.herokuapp.com:4001/request"
+
 
 
 # Chatbot examples, including stories: https://www.chatbot.com/docs/talk-with-bot/
