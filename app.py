@@ -89,7 +89,7 @@ class Teaser:
 class ChatBot:
     def __init__(self):
         self.botId = "Botten"
-        self.keywordfile = "blogdata/keywords.txt"
+        self.keywordfile = "./blogdata/keywords.txt"
         self.keywords = ""
         self.about_keywords = ['callista']
         self.event_keywords = ['cadec', 'event', 'aktuellt', 'konferens']
@@ -305,8 +305,8 @@ if __name__ == '__main__':
     from argparse import ArgumentParser
 
     # Session Settings
-    blogdatafile = "blogdata/blogdata_links.txt"
-    blogdatafile_titles = "blogdata/blogdata_titles.txt"
+    blogdatafile = "./blogdata/blogdata_links.txt"
+    blogdatafile_titles = "./blogdata/blogdata_titles.txt"
     # ##blogdatafile_titles = "blogdata/blogdata_shorttitles.txt"
     debugExecution = False
 
