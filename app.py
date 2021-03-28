@@ -294,6 +294,7 @@ def reponse2request():
     #if debugExecution is True:
     #    print("request: \n" + str(values))
     #    print("response: \n" + responsemessage)
+    print("request: \n" + str(values))
 
     return responsemessage
 
