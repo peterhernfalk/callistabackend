@@ -286,6 +286,7 @@ def reponse2request():
     requestmessage.language = values.get('language')
 
     responsemessage = chatbot.get_bot_reply(requestmessage)
+    print("reponse2request:", values, responsemessage)
 
     response = {
         'message': 'response',
@@ -313,6 +314,7 @@ if __name__ == '__main__':
     debugExecution = True
 
     # Execute_after_startup()
+    print("Execute_after_startup()")
     chatbot.loadkeywords()
     chatbot.loadblogdata()
 
