@@ -129,13 +129,13 @@ class ChatBot:
             publisheddate = ""
 
             if word in self.keywords:
-                if debugExecution is True:
+                if debugExecution == True:
                     print("keyword: " + word)
 
                 keywordlist.append(word)
                 matched_lines = self.find_blogposts(word)
 
-                if debugExecution is True:
+                if debugExecution == True:
                     print("Keyword: " + word + '. Total Matched blog posts: ', len(matched_lines))
                 if len(matched_lines) == 0:
                     # This can only happen if "word in self.keywords" doesn't work properly
@@ -152,7 +152,7 @@ class ChatBot:
                     link = line_element[2]
                     response.messages.append(self.add_message(label, link))
 
-                    if debugExecution is True:
+                    if debugExecution == True:
                         print('Word = ', line_element[0], ' :: Line Number = ', line_element[1], ' :: Line = ', line_element[2])
                 keywordlist.clear()
 
@@ -291,9 +291,9 @@ def reponse2request():
         'reply': responsemessage,
     }
 
-    if debugExecution is True:
-        print("request: \n" + str(values))
-        print("response: \n" + responsemessage)
+    #if debugExecution == True:
+    #    print("request: \n" + str(values))
+    #    print("response: \n" + responsemessage)
     #print("request: \n" + str(values))
 
     return responsemessage
