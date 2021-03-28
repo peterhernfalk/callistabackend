@@ -281,6 +281,9 @@ responsemessage = ResponseMessage()
 def reponse2request():
 
     # Session Settings
+    global blogdatafile
+    global blogdatafile_titles
+    global debugExecution
     blogdatafile = "blogdata_links.txt"
     blogdatafile_titles = "blogdata_titles.txt"
     debugExecution = True
