@@ -1,0 +1,565 @@
+Vägen bli arkitekt
+Stephen White talar om Jetpack Compose Jfokus Brown Bag Lunch Learn
+Callista växer 40
+Cadec 2021 – komplett inspelning
+Från React Jetpack Compose
+Kotlin Update Coroutines – alternativt paradigm asynkron programmering
+Kodad infrastruktur riktigt AWS Cloud Development Kit
+GraalVM – genväg eller senväg Java-baserade mikrotjänster
+Nu kan generics bli verklighet
+Multitenancy Software-as-a-Service kostnadseffektivt skalbart sätt
+Årets digitala Cadec gått stapeln
+I dag börjar Sara Adenbrant oss
+2021 börjar bästa sätt – välkommen Patrik Blommaskog
+Nu programmet Cadec 2021 klart
+Building Framework Agnostic WebComponents stencilJS Part 2
+Architecting AWS
+Building Framework Agnostic WebComponents stencilJS Part 1
+Änmedarbetare Göteborg – välkommen Marcus Cedergren
+Nu kan anmäla Cadec 2021
+Vår första helt digitala bootcamp genomförd
+Vi växer Göteborg välkomnar Henrik Starefors
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 6 Implementing Shared Database Discriminator Column pattern using Postgres Row Level Security
+Testing A Kafka Event Producer With Spring Boot And JUnit 5 Part 2
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 5 Implementing Shared Database Discriminator Column pattern using Hibernate Filters
+Testing A Kafka Event Producer With Spring Boot And JUnit 5 Part 1
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 4 Implement Schema-per-tenant pattern using Hibernate
+Speed-up your Testcontainers tests
+Getting started Testcontainers
+Elektrifieringen går framåt
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 3 Implement Database-per-tenant pattern using Hibernate
+Välkommen Fredrik Larsson 
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 2 Outlining an Implementation Strategy Multi Tenant Data Access
+Dynamic Multi Tenancy Spring Boot Hibernate Liquibase Part 1
+En energigivande kickoff Omberg
+Project Reactor Reactive Programming Spring Part 2
+Ny utsikt samma adress
+Using Metrics To Manage Risk a CD Environment
+Optimizing a simple ray-tracer written Go part 2
+Optimizing a simple ray-tracer written Go part 1
+Technical aspects of ontologies part 2
+Technical aspects of ontologies part 1
+Nytt kontor Göteborg
+An introduction RSocket
+Blog Series Reactive Programming Spring
+An Introduction Reactive Programming Reactive Programming Spring Part 1
+Certified Kubernetes Application Developer CKAD exam preparation tips
+Kafka Authorization a Graph
+Dynamic Lists Asynchronous Data Loading SwiftUI
+Presentation React Meetup
+Håkan Dahl AWS Certified Solutions Architect Associate”
+Har fortfarande samma problem
+Profiling Go applications from Go West meetup
+Kompetensmöte Event Storming
+Två innehållsrika dagar Jfokus
+Vi välkomnar Erik Englund
+Apputveckling praktiken React Native eller bara Native
+2 meetups nästa vecka
+GDPR-aspekter Machine Learning hur automatiska beslut kan förklaras hjälp visualisering
+MQTT-Kafka bridge uppkopplade bilar Kafka-kluster
+Säkra appar OAuth & OIDC
+Praktiska strategier bryta ismonoliten
+Nu Cadec 2020 klar
+Ett makroperspektiv verktygslådan mikrotjänster
+Apputveckling praktiken React Native eller bara Native 
+Säkra appar OAuth & OIDC
+Praktiska strategier bryta ismonoliten
+Ett makroperspektiv verktygslådan mikrotjänster
+MQTT-Kafka bridge uppkopplade bilar Kafka-kluster
+GDPR-aspekter Machine Learning hur automatiska beslut kan förklaras hjälp visualisering
+På upptäcksfärd microservice-landskapet
+Programmet Cadec 2020 klart
+Gung-ho Hindås
+Nu kan anmäla Cadec 2020
+Transactions Revisited
+Full ruljangs releasepartyt
+Erik talade Go meetup Göteborg
+Välkommen releaseparty höstens hetaste bok om microservices
+Go graceful shutdown of worker goroutines
+Ny bok om Microservices
+Niklas inbjuden som talare Digital Tranformation Meetup
+Serialization Schema Compositionality Apache Avro
+GraphQL Apollo Hooks
+Java 13 
+The Perfect Desktop
+Spring Data JPA Projections
+Cadec 2020 biograf nära dig
+Nyheter ARKit 3 kan människan komma bilden
+Vad kan vara bättre än diskutera maskininlärning frukost
+Machine learning javaplattformen
+Vi ökar vår digitaliseringsgrad
+Imorgon snackas maskininlärning Callistakontoret
+Årets kickoff blev stor succe 
+Go Microservices blog series part 16 It's 2019 time a code overhaul
+Supervision 2040 änmer världsbäst e-hälsa
+Tillökning Göteborg
+Frukostseminarium Machine Learning Javaplattformen
+React native workshop summary from React Europe 2019
+David talade DevSum19
+Vi jobbar kompetensutveckling
+Home automation Golang IKEA Trådfri
+En dag Jfokus
+O'Reilly Software Architecture Conference 2019 Event storming
+O'Reilly Software Architecture Conference 2019 Spaning
+O'Reilly Software Architecture Conference 2019 Måndagens tutorials
+O’Reilly Software Architecture Conference 2019 Keynote tisdag
+React Update frontend framtiden
+Service Mesh bygger flexibel robust effektiv kommunikation mellan mikrotjänster
+Event-driven arkitektur Apache Kafka – strid ström fördelar eller bara hype
+Go Modules Go 20 nästa steg Golang
+Machine Learning Javaplattformen dator nära dig
+Macro mini micro … – hur väljer rätt tjänstebaserad arkitektur
+React Update frontend framtiden
+Service Mesh bygger flexibel robust effektiv kommunikation mellan mikrotjänster
+Event-driven arkitektur Apache Kafka – strid ström fördelar eller bara hype
+Go Modules Go 20 nästa steg Golang
+Machine Learning Javaplattformen dator nära dig
+Macro mini micro … – hur väljer rätt tjänstebaserad arkitektur
+2019 rekord-år Cadec
+Nu programmet Cadec 2019 klart
+Synchronous Request-Reply using Apache Kafka
+Kompetensbaserad upphandling – agilt sätt hitta rätt IT-leverantör
+Apache Avro Serialization Spring MVC
+Go Microservices blog series part 15 Monitoring Prometheus
+Frukostseminarium Kompetensbaserad upphandling – agilt sätt hitta rätt IT-leverantör 
+WeAreDevelopers World Congress 2018
+Välkommen Pär-Anton
+Google’s gRPC nyare kommunikationsprotokoll
+Go Microservices blog series part 14 GraphQL
+Konferensrapport Vital Medical Informatics Europe
+ReactJS – gemensam design alla plattformar
+Machine Learning som vill börja koda nu
+Machine Learning de-Mystified
+Blockkedjan – länken smarta kontrakt andra innovativa lösningar
+”Open Evolving Nimble & Scalable” – Java redo microservices
+Kafka strömmen – flyt dina dataflöden
+Välkommen Martin
+GDPR vad varför skall jag bry mig 
+SoapUI Gradle mockade webtjänster
+ReactJS – gemensam design alla plattformar
+Machine Learning som vill börja koda nu
+Blockkedjan – länken smarta kontrakt andra innovativa lösningar
+”Open Evolving Nimble & Scalable” – Java redo microservices
+Kafka strömmen – flyt dina dataflöden
+GDPR vad varför skall jag bry mig 
+Vi välkomnar Björn Gylling
+JFokus 2018 Framtiden Java ser ljus ut
+Go Microservices blog series part 13 data consistency gorm CockroachDB
+ng-europe 2018 Angular Enterprise Applications
+Missa inte anmäla Cadec 2018 Stockholm
+Succé Cadec 2018 Göteborg
+Create multi-platform Docker images
+WebAssembly lågnivå JS tar webben nya höjder
+ArchConf 2017 uträtning frågetecken inom microservice-arkitektur
+Setting up a Kubernetes cluster using Docker Docker
+ArchConf 2017 sammanfattning Spring Cloud Contract Spring REST docs
+ArchConf 2017 a short summary of Spring Cloud Contract
+Setting up a Docker Swarm cluster using Docker Docker
+Blog Series Trying out new features Docker
+Scala Exchange Funktionella programmeringsmönster
+Scala Exchange dag 2 Kompositionalitetsprincipen
+Scala Exchange dag 1 Kategoriteori
+Peter Larsson sverigetoppen 
+ArchConf dag 3 Microservices AntiPatterns
+ArchConf dag 2 sammanfattning min dag
+ArchConf dag 2 Reactive Architecture Patterns
+ArchConf dag 1 Machine learning workshop
+Nu programmet klart Cadec 2018 Göteborg
+Erik Lupander pratar Go microservices podden Under Utveckling
+Nu kan anmäla Cadec 2018 Göteborg
+Fullt hus vår Go frukost
+Lean & Mean skapar äkta microservice-arkitektur Go
+Go Microservices blog series part 12 distributed tracing Zipkin
+Vi växer 
+Jesper höll uppskattat föredrag om Kotlin JavaZone 
+Arkitekturblogg del 8 Fortsättning UML – Arkitektens skruvmejsel
+Kickoff 2017
+Building Microservices part 8 Centralized logging ELK stack
+Go Microservices blog series part 11 hystrix resilience
+Arkitekturblogg del 7 UML – Arkitektens skruvmejsel
+Go Microservices blog series part 10 centralized logging
+Building Microservices part 7 Distributed tracing Zipkin Spring Cloud Sleuth
+Apple WWDC17 AR ML snart var mans hand
+Go Microservices blog series part 9 Messaging RabbitMQ AMQP
+Rapport från Spring I/O 2017
+Go Microservices part 8 centralized configuration Viper Spring Cloud Config
+Building Microservices part 6 Adding a Configuration Server
+React Meetup populärare än någonsin
+Tre fullspäckade dagar Vitalis
+Frukostseminarium Vägen molnet ta de första stegen redan idag
+Lessons learned from a year AWS
+Go microservices part 7 Service Discovery & Load-balancing
+Go microservices part 6 health checks
+Go microservices part 5 deploying Docker Swarm
+Go microservices part 4 testing mocking GoConvey
+Callista presenterar Microservice-arkitektur Europas ledande Spring-konferens
+Go Microservices part 3 embedded database JSON
+Go microservices part 2 building our first service
+Go Microservices blog series part 1
+Arkitekturblogg del 6 Integrationsmönster designmönster
+Programmet Cadec Stockholm klart
+Typescript den vackra sidan javascript
+Dumpa servern serverless nya svarta
+Reaktiv programmering RxJava
+Kotlin elegant nytt programspråk JVMen
+Java 9 Footprint
+Lean & Mean Go-based microservices Docker Swarm
+Erfarenheter från discovery services microservice-landskap
+DDD mikroservices stora fördelar små tjänster
+Grafdatabaser FTW
+Cadec-programmet
+Arkitekturblogg del 5 Arkitekturmönster
+JFokus 2017
+ESBn död länge leve ESBn
+Vem vill privat moln
+Alla vägar bPaaS
+Kvantdatorns genombrott
+AWS reInvent 2016 Keynote 2
+AWS reInvent 2016 Keynote 1
+AWS reInvent 2016
+Creating a custom Gatling prococol AWS Lambda
+Arkitekturblogg del 4 Att arbeta taktiker inom mjukvaruarkitektur
+Nu kan anmäla Cadec 2017
+En överblick bloggserien kring arkitektur
+Nationella E-hälsodagen 2016 snöstorm
+Arkitekturblogg del 3 Faktorer som avgör hur mjukvaruarkitekturen bör se ut
+Arkitekturblogg del 2 De olika typerna arkitektur
+Det går bra nu
+Ny bloggserie om arkitektur
+Ytterligare systemutvecklare börjat Callista
+Building Microservices part 5 Upgrading Spring Cloud 11 Docker Mac
+GOTO Stockholm
+Vi blir fler inom Informatik
+Ny konsult Göteborg
+Big data prediktiv analys sjukvården
+Adding a Golang microservice Spring Cloud
+Callista nominerat Årets Tillväxtföretag
+Microservice landscape testing Golang
+The Revenge of Quiz cloud
+Ny medarbetare Stockholm
+Succe Cadec 
+Spring Boot
+Microservices
+Kubernetes
+Ytterligare tillökning Stockholm
+Web Components
+Spring XD
+Java 9 Modulsystem Jigsaw
+GraphQL
+Rekordstort intresse Cadec
+Callista växer
+Notes from Gartner's AADI conference
+Callista superföretag
+Creating a load-test tool Golang
+Ny medarbetare Stockholm
+Nytt ramavtal eHälsomyndigheten
+Apache Camel vs Spring Integration
+Höstens bootcamp genomförd
+Spring Boot App a Windows Service
+Creating a Golf Distance app Garmin devices
+Succe ReactJS Meetup
+Ny medarbetare Stockholm
+SpringOne2GX 2015 Going Cloud Native locally Lattice
+SpringOne2GX Start your climb cloud
+SpringOne2GX Eventsourcing CQRS a microservice context
+SpringOne2GX Google has unleashed Borg watch out Kubernetes
+SpringOne2GX 2015 Cloud Native
+SpringOne2GX 2015 First impressions of Cloud Foundry
+Spring Framework 5 announced
+Spring XD tutorial summarized
+SpringOne2GX day one
+Stort intresse ReactJS
+Dawn of thread
+A first look at PacketBeat
+Building Microservices part 4 Dockerize your Microservices
+Microservices
+Microservices
+Frukostseminarium genomfört
+Blog Series Building Microservices
+Building microservices part 3 Secure API's OAuth 20
+Från medelandeutväxling semantisk interoperabilitet
+Building microservices Spring Cloud Netflix OSS part 2
+Building microservices Spring Cloud Netflix OSS part 1
+An operations model Microservices
+Bootcamp genomförd
+Ny medarbetare Stockholm
+Speedment Make Your Existing SQL Database Superfast
+Microservices
+Adding social login a website using Spring Social
+Callista stöder Rädda Barnen
+Cadec 2015
+Testautomation tutorial
+Reactive
+Reactive Tutorial
+RAML
+Java 8
+Från Maven Gradle
+FHIR interoperabilitet sjukvården
+Ember
+Ember Tutorial
+Loggövervakning realtid ELK
+Prestandatest Agila projekt
+Trying out functional programming Java 8
+Nya konsulter Göteborg
+Personlig teknikradar
+Heads-up AngularJS 1x be deprecated soon
+Apache Mesos
+Avoid callback hell when using non-blocking I/O
+Strategier mobilutveckling multipla plattformar
+Säkerhetsdagen 2014
+Callista Gasell-företag 
+Don't block your mobiles Internet of things
+Adding social login a website using Spring Social
+Utmaningar datatekniskt representera kvalitetsindikatorer
+Nya medarbetare Stockholm
+Modelling a REST API UML keeping it agile
+How share HTTP ports between Mule applications
+Testing non-blocking REST services Spring MVC Spring Boot
+Per vann Apple TV
+Health Innovation Platform
+Nya lokaler
+C10k Developing non-blocking REST services Spring MVC
+A first look at Gatling a DSL based load test tool
+A first look at Spring Boot  it time leave XML based configuration behind
+A first look at Gradle  it time leave Maven Ant behind
+TDD++ dynamiska språk
+Spring Data JPA
+Single page app Backbonejs
+Rethink your frontend architecture
+RAML
+Play 2
+Nexus of forces Heads up
+Bättre roligare applikationer D3js
+Att göra legacy kod testbar
+APIer moderna klienter Grails 23
+C10k Lightweight Java servers large scaled realtime WebSocket communication
+CRaSH Mule a ssh/telnet based management tool Mule ESB
+RequireJS modules plugins optimization
+Sveriges patientjournaler den programmerbara webben utopi
+Skalbara system Akka Scala
+Single page app Backbonejs
+Kodkata Länkad lista igen
+Hadoop översikt
+Groovy & Grails 2x update
+End-to-end Javascript webappar Nodejs MongoDB
+Coffee
+Bygga appar mot vårdens APIer
+Build pipelines
+Cadec tutorials
+Set up a Tomcat server AWS using CloudFormation
+Mule ESB C10k problem streaming updates 10 000 WebSocket clients using upcoming nio-http-transport
+Apache Cassandra time series TimeUUIDType Java
+Using soi-toolkit create secure HTTPS services SOAP or REST style Mule ESB
+Remote deploy Tomcat 7 using Cargo
+Web Acceptance Testing Revisited
+SQL ⊆ NoSQL = Oracle
+Mule++ Skapa mobila tjänster Mule
+Ready Go Mobile
+Mobil-enabla ditt systemlandskap hjälp Mule ESB
+Introduktion distribuerad versionshantering Git
+Enterprise Mobile Platforms Andriod professionella tillämpningar
+Play Framework
+Automated UI tests Mobile Apps
+Firefox Enterprises from proposal action
+Experiences from Rich Web Experience 2011
+Quick Start Jetty's maven plugin SSL
+Creating self-signed certificates use Android
+Android TLS/SSL Mutual Authentication
+Configure your spring web application
+Kan OAuth2 vara dörren öppna journalerna marknaden
+Getting started git
+From MuleForge Working SFTP Transport Smooks Module
+Changes attr JQuery 16x
+Is REST future SOA
+Soi-toolkit meets Mule Studio a perfect match
+Curl Mutual Authentication Web Services
+Synchronizing Mail Calendar Contacts between Google accounts iOS devices
+Lessons learned using DBUnit a large project
+Five things avoid last sprint
+Working collections scala rocks
+Getting started Soi-toolkit
+Uttrycksfulla stabila domänmodeller – En utopi
+SOI Toolkit – Turboladdad Mule-utveckling
+Scala
+Real time web Eller varför alla behöver PubSubHub-bubhub
+Senaste nytt från QCon 2010
+Mule/SOI Toolkit
+Kod som värd något
+Grails & Groovy
+ATDD Acceptance Test Driven Development
+Setting up your Eclipse environment Groovy Grails
+Keeping Database Schemas up date
+Getting started Sonar manage your technical debt
+One-liners Java – maybe better support Java 7
+Difference between Stubs 'n' Mocks
+Advanced Debugging
+My write-up Software Craftsmanship 2010
+Never let an enterprise architect into a coding dojo
+Mock an autowired bean
+Subclipse vs Subversive
+Get rid of your tedious error-prone release process
+CDI The first standard DI containers
+Vad gör åsna vården
+Att ersätta kommersiell integrationsplattform Open source-ESB
+Java EE 6 springer förbi Spring
+HTML 5
+Hibernate Search – Hur Googlar din domänmodell
+Another perspective JAX-WS portability
+Increased productivity JavaRebel
+Metamorphos The screwdriver turns into a nuclear plant
+Grails Unit Testing Eclipse
+Using Categories keep Java domain models uncluttered
+A stab at Google App Engine
+The ultimate source schema versioning strategies
+Integrating Flex BlazeDS Spring
+Creating custom components Flex
+Terracotta Enklare väg tillgänglighet persistens
+Stripes Framework – Dags dra upp huvudet sanden
+SOA Open Source Hur enkelt får vara
+Scrum – Lathetens eller effektivitetens utvecklingsmetod
+Enterprise mash-ups Låt gästerna blanda sina egna drinkar
+Use Eclipse plugins find bugs check test coverage
+Building dsl Scala
+Being Agile
+Debugging Groovy Eclipse
+Using JFreeChart implementing a graphical calendar
+Maven Eclipse integration revisited
+Recept Maven Eclipse
+Groovy a job control language
+RESTful JAX-RS
+wmb-util pain relief WebSphere Message Broker
+Groovy Grails intro
+Bekanta Groovy Grails
+Installation Grails
+Testing Hermes JMS
+Lightweight messaging development using Active MQ
+Deploy portlets WAS 61
+Yet another Mock framework
+The programming languages of tomorrow
+Integrating e-id WebSphere Portal
+Run your own application Google's cloud
+IDE Vendors catch up use-case-level re-use
+After Corba comes SOAP comes REST comes
+Adobe Flex finally goes Open Source
+Spring Batch close 10 Release
+Apex becomes ABAP of SaaS
+Ant Maven and
+Spring becomes an ESB
+Valentine's day have you sent your partner a message today
+Open-minded course wanted
+XMPP roll
+Facelets  coming from cold
+Unit Test Utilities developers a hurry
+The Inter-Portlet Communication IPC Problem
+The web framework dream team
+JPA The Good Bad Ugly
+CouchDB
+Composition of SOA based applications
+Bitter TDD
+Governing bulldozer portal platform project
+Callista blir Supporters OSOA
+Try a new message protocol today
+ESB product versus architecture
+New milestones reached Service Component Architecture
+Scale Scala
+Enterprise Service Bus Vad då 'Service'
+Visst kan man lära gamla hundar sitta eller reflektion om vidareutbildning Java
+SPEC släpper testsvit JMS
+Asynkrona tjänster fokus WS-I
+Ytterligare momentum Java Persistence Api
+Informell referensimplementation SCA når version 10
+DWR 20 släppt
+Public Review Web Beans JSR 299
+Överraskande positiva erfarenheter från Eclipse RCP
+Webramverkens dream-team
+Är Drools 40 'Enterprise Ready'
+'Bara syntax' inte bara
+Maven++ från Eclipse blir framtidens byggsystem
+FitNesse inte bara testverktyg
+OSGi början
+Aggregering rapporter Maven 2
+Visst behövs JBI
+Subversive accepterat Eclipse
+Polyglot Programming
+Gavin Kings önskelista Java EE 6
+Richard Stallman föreläser Göteborg
+Versionshantering XML Scheman
+TSSS 2007 Nästa Generations Plattform enligt Oracle
+Avslöja cirkulberoenden mellan Java-paket
+JSF 20 draft JSR ute
+TSSS 2007 State Of Ajax
+TSSS 2007 Ramverket RIFE
+TSSS 2007 JSF saknar momentum
+TSSS 2007 WebService Interop Net 30
+TSSS 2007 Ajax överallt
+It's all about 'continuous'
+TSSS 2007 Mule 2 Spring 2
+TSSS 2007 Apache TuscaNot The Same Old Architecture
+The Server Side Java Symposium 2007
+Kom igång Service-Orienterad Integration
+Service Component Architecture mot version 10
+Data Grid POJO's
+Webdialoger som drop-in komponenter
+Testdriven ESB-utveckling
+Open Source ESB Något ta på allvar
+Lättviktig prototyping Naked Objects
+Java Persistence API v10 JPA
+JavaEE Seams Easy
+DomänSpecifika Språk DSL för acceptanstester
+Asynkrona tjänster Nyckeln SOA-baserad integration
+Kodtäckning Eclipse EclEmma-pluginen open source
+Dependency management Ant Ivy Apache incubator
+Ant 17 JUnit
+WebSphere portal-server modulariseras
+Suns JAXB 21 ger förbättrat stöd SOA
+Hur genomför man kodgranskning bäst
+IBM dundrar Java EE 50 scenen BEA SAP rycker täten
+Har JBI tillräckligt luft under vingarna
+Automatiserade byggen Pulse
+Transparens mellan FIT-fixturer Spring-bönor hjälp DI
+IBM Rational satsar byggautomation
+Lättviktigt modelleringsverktyg
+MoreUnit ger produktivitetsboost
+Web-dialoger som komponenter
+Vilka beroenden du
+Service Component Architecture flyttar fram positionerna
+Selenium & FitNesse
+Rod Jonson om Springs roll Service Component Architecture
+JAOO Rapport Söndag
+JAOO Rapport Måndag
+Handlar egentligen SOA om applikationsarkitektur
+Gammal äldst
+Closures snart JDK nära dig
+10% utvecklingsbudgeten kan kapas Spring Webflow
+Callisto 10 Eclipse-projekt paket
+Testa dina web services soapui
+Introduktion SCA
+Intryck från TheServerSide Java Symposium dag 2
+Intryck från TheServerSide Java Symposium dag 1
+Harmoni mellan JAXB JAXRPC JavaEE 5
+Spring WebFlow RC1 släppt
+Out-of-browser testning web-applikationer
+Service Component Architecture Spec
+JUnit 4 släppts
+Service Component Architecture SCA referensarkitektur för SOA
+Let's get groovy
+Intryck från Javapolis
+Drools
+Dependency Injection In Action
+Äntligen lite flyt på webben
+AJAX
+Var står Web Services idag
+Trender inom Java-området som Callista ser det
+Spring time J2EE
+EJB 30 – bättre värld
+The Reference Architecture a foundation successful projects
+JavaServer Faces – a comparison other techniques
+Is JDO Java Data Objects better than Entity Beans
+Automated acceptance testing – a Holy Grail
+The Deployment Descriptors are gone Attribute-based J2EE development
+Systemintegration Web Services XML
+Nyheter J2EE v14
+Net J2EE perspektiv
+J2EE Design UML RUP sk Agile Software Development
+Enhetstestning testdriven design
+Aspekt-orienterad programmering AspectJ
