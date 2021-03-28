@@ -278,6 +278,19 @@ responsemessage = ResponseMessage()
 ##############################
 @app.route('/request', methods=['POST'])
 def reponse2request():
+
+    # Session Settings
+    blogdatafile = "blogdata_links.txt"
+    blogdatafile_titles = "blogdata_titles.txt"
+    # ##blogdatafile_titles = "blogdata/blogdata_shorttitles.txt"
+    debugExecution = True
+
+    # Execute_after_startup()
+    print("Execute_after_startup()")
+    chatbot.loadkeywords()
+    chatbot.loadblogdata()
+
+
     values = request.get_json()
     requestmessage.requestNumber = values.get('requestNumber')
     requestmessage.responseTo = values.get('responseTo')
