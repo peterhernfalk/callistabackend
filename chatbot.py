@@ -333,7 +333,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     port = args.port
 
-    usedHost = '127.0.0.1'
+    usedHost = 'https://callistabackend.herokuapp.com'  #'127.0.0.1'
     instance_address = "http://" + usedHost + ":" + str(port)
 
     app.run(host=usedHost, port=port)
