@@ -12,30 +12,6 @@ from flask import Flask, request    # jsonify
 # import seccure
 import re
 
-"""
-#curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "hej", "botId": "1", "language": "sv"}' "http://localhost:4001/request"
-#curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "microservice", "botId": "1", "language": "sv"}' "http://localhost:4001/request"
-#curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "om callista", "botId": "1", "language": "sv"}' "http://localhost:400/request"
-
-##curl -X POST -H "Content-Type: application/json" -d '{"requestNumber": "0", "responseTo": "0", "value": "microservice", "botId": "1", "language": "sv"}' "https://callistabackend.herokuapp.com:4001/request"
-
-
-
-# Chatbot examples, including stories: https://www.chatbot.com/docs/talk-with-bot/
-# https://chatterbot.readthedocs.io/en/stable/
-# Code sample: https://codepen.io/lilgreenland/pen/pyVvqB
-
-Chatbot API:s
-https://docs.microsoft.com/en-us/azure/bot-service/rest-api/bot-framework-rest-connector-api-reference?view=azure-bot-service-4.0
-https://core.telegram.org/bots/api
-https://www.livezilla.net/chatbotapi/en/
-https://developers.viber.com/docs/api/rest-bot-api/
-"""
-
-##############################
-# API Definition (Initially based on selected parts from LiveZilla Chat Bot API, and later modified to suit the purposes)
-##############################
-
 
 class Message:
     def __init__(self):
@@ -89,7 +65,7 @@ class Teaser:
 class ChatBot:
     def __init__(self):
         self.botId = "Botten"
-        self.keywordfile = "keywords.txt"
+        self.keywordfile = "blogdata/keywords.txt"
         self.keywords = ""
         self.about_keywords = ['callista']
         self.event_keywords = ['cadec', 'event', 'aktuellt', 'konferens']
@@ -97,14 +73,14 @@ class ChatBot:
         self.recruit_keywords = ['jobb', 'rekrytering']
 
     def loadkeywords(self):
-        print("loadkeywords:", len(self.keywords))
+        #print("loadkeywords:", len(self.keywords))
         self.keywords = open(self.keywordfile, 'r').read().lower()
 
     def loadblogdata(self):
         self.blogdata = open(blogdatafile, 'r').read().lower()
         self.blogdata_links = open(blogdatafile, 'r').readlines()
         self.blogdata_nolinks = open(blogdatafile_titles, 'r').read().lower()
-        print("loadblogdata:", len(self.blogdata))
+        #print("loadblogdata:", len(self.blogdata))
 
     def find_blogposts(self, keyword):
         line_number = 0
@@ -322,13 +298,13 @@ if __name__ == '__main__':
     from argparse import ArgumentParser
 
     # Session Settings
-    blogdatafile = "blogdata_links.txt"
-    blogdatafile_titles = "blogdata_titles.txt"
+    blogdatafile = "blogdata/blogdata_links.txt"
+    blogdatafile_titles = "blogdata/blogdata_titles.txt"
     # ##blogdatafile_titles = "blogdata/blogdata_shorttitles.txt"
     debugExecution = True
 
     # Execute_after_startup()
-    print("Execute_after_startup()")
+    #print("Execute_after_startup()")
     chatbot.loadkeywords()
     chatbot.loadblogdata()
 
