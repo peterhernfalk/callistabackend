@@ -98,6 +98,7 @@ class ChatBot:
 
     def loadkeywords(self):
         self.keywords = open(self.keywordfile, 'r').read().lower()
+        print(len(self.keywords))
 
     def loadblogdata(self):
         self.blogdata = open(blogdatafile, 'r').read().lower()
