@@ -294,7 +294,7 @@ def reponse2request():
     #if debugExecution is True:
     #    print("request: \n" + str(values))
     #    print("response: \n" + responsemessage)
-    print("request: \n" + str(values))
+    #print("request: \n" + str(values))
 
     return responsemessage
 
@@ -309,7 +309,7 @@ if __name__ == '__main__':
     blogdatafile = "blogdata_links.txt"
     blogdatafile_titles = "blogdata_titles.txt"
     # ##blogdatafile_titles = "blogdata/blogdata_shorttitles.txt"
-    debugExecution = False
+    debugExecution = True
 
     # Execute_after_startup()
     chatbot.loadkeywords()
