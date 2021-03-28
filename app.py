@@ -334,11 +334,11 @@ if __name__ == '__main__':
     parser.add_argument('-p', '--port', default=4001, type=int, help='port to listen on')
     args = parser.parse_args()
     #port = args.port
-    port = 4001
+    #port = 4001
+    #usedHost = 'https://callistabackend.herokuapp.com'
+    #instance_address = "http://" + usedHost + ":" + str(port)
+    #instance_address = usedHost
+    #app.run(host=usedHost, port=port)
 
     usedHost = 'https://callistabackend.herokuapp.com'
-    #instance_address = "http://" + usedHost + ":" + str(port)
-    instance_address = "http://" + usedHost
-
-    #app.run(host=usedHost, port=port)
     app.run(host=usedHost)
