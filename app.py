@@ -300,7 +300,7 @@ def reponse2request():
     requestmessage.language = values.get('language')
 
     responsemessage = chatbot.get_bot_reply(requestmessage)
-    print("reponse2request:", values, responsemessage)
+    #print("reponse2request:", values, responsemessage)
 
     response = {
         'message': 'response',
