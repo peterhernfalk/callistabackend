@@ -277,6 +277,7 @@ def reponse2request():
 
     responsemessage = chatbot.get_bot_reply(requestmessage)
     #print("reponse2request:", values, responsemessage)
+    responsemessage.headers.add("Access-Control-Allow-Origin", "*")
 
     response = {
         'message': 'response',
