@@ -1,3 +1,7 @@
+Vägen bli arkitekt
+Stephen White talar om Jetpack Compose Jfokus Brown Bag Lunch Learn
+Callista växer 40
+Cadec 2021 – komplett inspelning
 Från React Jetpack Compose
 Kotlin Update Coroutines – alternativt paradigm asynkron programmering
 Kodad infrastruktur riktigt AWS Cloud Development Kit

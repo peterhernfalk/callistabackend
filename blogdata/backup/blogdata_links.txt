@@ -1,3 +1,7 @@
+<a href="https://callistaenterprise.se/blogg/notiser/2021/03/22/pathtobecomearchitect/" target='_blank'>Vägen till att bli arkitekt</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/03/11/stephen-brown-bag/" target='_blank'>Stephen White talar om Jetpack Compose på Jfokus Brown Bag Lunch and Learn</a>
+<a href="https://callistaenterprise.se/blogg/callista/2021/02/26/vi-vaxer/" target='_blank'>Callista växer - nu är vi 40</a>
+<a href="https://callistaenterprise.se/blogg/presentationer/2021/02/23/Cadec2021-komplett/" target='_blank'>Cadec 2021 – komplett inspelning</a>
 <a href="https://callistaenterprise.se/blogg/presentationer/2021/02/19/jetpack/" target='_blank'>Från React till Jetpack Compose</a>
 <a href="https://callistaenterprise.se/blogg/presentationer/2021/02/16/kotlin/" target='_blank'>Kotlin Update: Coroutines – ett alternativt paradigm för asynkron programmering</a>
 <a href="https://callistaenterprise.se/blogg/presentationer/2021/02/11/cdk/" target='_blank'>Kodad infrastruktur på riktigt med AWS Cloud Development Kit</a>
