@@ -11,6 +11,8 @@ from flask import Flask, request    # jsonify
 # import uuid
 # import seccure
 import re
+from flask_cors import CORS, cross_origin
+
 
 
 class Message:
@@ -245,7 +247,6 @@ app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
 #pip install -U flask-cors
-from flask_cors import CORS, cross_origin
 CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
