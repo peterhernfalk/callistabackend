@@ -23,6 +23,7 @@ Beroende
 Blockkedjan
 Bootcamp
 Cadec
+Callang
 Callista
 Cloud
 Coffee
@@ -47,6 +48,7 @@ Docker
 DSL
 Eclipse
 e-hälsa
+Electricity
 Elektrifieringen
 ELK
 Embedded database
@@ -77,6 +79,7 @@ Göteborg
 Hadoop
 Health check
 Hibernate
+Home
 Home automation
 Hooks
 HTML
@@ -110,6 +113,7 @@ Load-balancing
 Logging
 Machine Learning
 Maven
+Meddelandeformat
 Mesh
 Meetup
 Metrics
@@ -122,6 +126,7 @@ Moln
 MongoDB
 MQTT
 Mule
+nano-services
 Nexus
 Non-blocking I/O
 OAuth
@@ -183,6 +188,7 @@ Välkommen
 Välkomnar
 WebAssembly
 WebComponents
+WebFlux
 WebService
 WebSocket
 XML

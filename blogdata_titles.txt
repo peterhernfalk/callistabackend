@@ -1,3 +1,7 @@
+Home electricity usage monitoring AWS services Go part 1
+IDMP – Framtidens meddelandeformat inom läkemedelsbranschen 
+Callista launches new nano-services language CallangTM
+WebFlux Reactive Programming Spring Part 3
 Vägen bli arkitekt
 Stephen White talar om Jetpack Compose Jfokus Brown Bag Lunch Learn
 Callista växer 40
