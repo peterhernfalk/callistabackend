@@ -244,6 +244,11 @@ class ChatBot:
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
+#pip install -U flask-cors
+from flask_cors import CORS, cross_origin
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
+
 # Instantiate Classes
 chatbot = ChatBot()
 requestmessage = RequestMessage()
@@ -254,6 +259,7 @@ responsemessage = ResponseMessage()
 # App Endpoints
 ##############################
 @app.route('/request', methods=['POST'])
+#@cross_origin(origin='*',headers=['Content-Type','Authorization'])
 def reponse2request():
 
     # Session Settings
@@ -330,11 +336,14 @@ if __name__ == '__main__':
     parser.add_argument('-p', '--port', default=4001, type=int, help='port to listen on')
     args = parser.parse_args()
     #port = args.port
-    #port = 4001
+    port = 4001
     #usedHost = 'https://callistabackend.herokuapp.com'
     #instance_address = "http://" + usedHost + ":" + str(port)
     #instance_address = usedHost
     #app.run(host=usedHost, port=port)
 
     usedHost = 'https://callistabackend.herokuapp.com'
+
+    usedHost = '127.0.0.1'
+    instance_address = "http://" + usedHost + ":" + str(port)
     app.run(host=usedHost)
