@@ -86,6 +86,7 @@ HTML
 hystrix
 IBM
 IDE
+IDMP
 Informatik
 Integration
 Integrationsmönster
@@ -106,6 +107,7 @@ Kotlin
 Kubernetes
 Kvantdator
 Lambda
+language
 Lattice
 Legacy
 Liquibase
