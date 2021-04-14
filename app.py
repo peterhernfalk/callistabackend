@@ -267,8 +267,8 @@ def reponse2request():
     global blogdatafile
     global blogdatafile_titles
     global debugExecution
-    blogdatafile = "blogdata_links.txt"
-    blogdatafile_titles = "blogdata_titles.txt"
+    blogdatafile = "blogdata/blogdata_links.txt"
+    blogdatafile_titles = "blogdata/blogdata_titles.txt"
     debugExecution = True
     # Execute_after_startup()
     chatbot.loadkeywords()
