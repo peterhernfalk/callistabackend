@@ -53,6 +53,7 @@ Elektrifieringen
 ELK
 Embedded database
 Ember
+Energy
 Enterprise
 Environment
 ESB
