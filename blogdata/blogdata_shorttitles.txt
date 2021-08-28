@@ -1,3 +1,9 @@
+microservices book 2nd edition updates
+tech radar 2021
+blog series reactive programming part 4
+supervision 2040 del2
+application integration with kafka part 2
+application integration with kafka part
 energy meter withws part 2
 energy meter withws
 idmp part1

@@ -1,3 +1,4 @@
+Energy monitoring AWS services Go part 2
 Home electricity usage monitoring AWS services Go part 1
 IDMP – Framtidens meddelandeformat inom läkemedelsbranschen 
 Callista launches new nano-services language CallangTM

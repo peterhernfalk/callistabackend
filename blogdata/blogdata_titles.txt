@@ -1,3 +1,9 @@
+The second edition of my book Microservices Spring Boot Spring Cloud  now released
+Callista Tech Radar 2021
+R2DBC Reactive Programming Spring Part 4
+Supervision 2040 änmer världsbäst e-hälsa del 2
+Application Integration With Kafka Part 2
+Application Integration With Kafka Part 1
 Energy monitoring AWS services Go part 2
 Home electricity usage monitoring AWS services Go part 1
 IDMP – Framtidens meddelandeformat inom läkemedelsbranschen 
